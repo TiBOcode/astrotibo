@@ -18,7 +18,7 @@ People listening don't have much expectations, it makes it very easy to surprise
 # A 4 Strings powerhouse for Creative Expression
 
 1. **Simplicity** 
-I could write an entire book about how important simplicity and accessibility are, whether we're talking about music or life in general. It's not easy task to explain why [Most people should learn the Ukulele instead of the Guitar](ukulelevsguitar). The relation between Simplicity and Creative Freedom
+I could write an entire book about how important simplicity and accessibility are, whether we're talking about music or life in general. It's not easy task to explain why [Most people should learn the Ukulele instead of the Guitar](ukulelevsguitar.md). The relation between Simplicity and Creative Freedom
 
 2. **Infinite possibilities**
 Simple doesn't mean Limited, this entire website is built on deconstructing that myth in Music but also Life in general. 

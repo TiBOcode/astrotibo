@@ -20,7 +20,7 @@ It's a great start but it carries a lot of myths, some of which are causing peop
 
 ###### Let me propose a new definition:
 
-Improvisation is the art of creatively exploring music **in the moment**, by combining learned skills with personal expression. It's accessible to all, **regardless of age** or **formal training**, and **it can be practiced at any level**. Improvisation involves [📝playing with music as opposed to playing music](📝playingwithmusic.md)
+Improvisation is the art of creatively exploring music **in the moment**, by combining learned skills with personal expression. It's accessible to all, **regardless of age** or **formal training**, and **it can be practiced at any level**. Improvisation involves [📝playing with music as opposed to playing music](📝playingwithmusic)
 
 
 It's not about perfection, but about the joy of musical discovery and self-expression.

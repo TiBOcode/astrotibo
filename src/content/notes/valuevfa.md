@@ -11,5 +11,5 @@ We all want good for others (at least most of us) but we sometimes lose sight of
 
 That implies living a simple and minimalistic life in which I feel satisfied with the things I already have and be driven by well intentioned dreams (whatever this might mean). 
 
-This is the philosophy behind all my content on the [Youtube channel](https://www.youtube.com/@TiBO_Uke), [Patreon](patreon), Website (and life in general). 
+This is the philosophy behind all my content on the [Youtube channel](https://www.youtube.com/@TiBO_Uke), [Patreon](patreon.md), Website (and life in general). 
  
