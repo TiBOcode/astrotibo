@@ -7,7 +7,7 @@ Anyone reading these words is walking on fresh snow. Becoming a member on Patreo
 
 Your support matters and would greatly accelerate the development of this project. 
 
-[Support this project: Become a member on Patreon](https://www.patreon.com/TiBO_Ukulele)
+### [Support this project: Become a member on Patreon](https://www.patreon.com/TiBO_Ukulele)
 
 
 
