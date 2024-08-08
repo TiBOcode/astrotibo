@@ -1,24 +1,32 @@
 ---
-title: A place for Music, Life and Everything in between
+title: Welcome to the Ukulele Improvisation PlayBook
 ---
 
-Hey there, you entered My Notes, all the content here is free to explore. However before you start your journey, take a few minutes to read about the unique structure of this place: [What a non linear website is and why it's the best way to learn](nonlinear). 
+Hey there, explorer! You've at the gates of a world where music, life, and everything in between collide in the most beautiful way. This is where we break the rules, embrace creativity, and learn to speak through our Ukuleles.
+
+### Before you dive in, here's the deal:
+
+1. All content here is 100% free. Yep, you read that right.
+2. This isn't your average website. [non-linear website designed to make learning feel like play.](nonlinear) 
+3. There's no "right" way to explore. Let your curiosity be your guide!
 
 One simple rule: Just let your curiosity and interest guide you from clicks to clicks until you find your way back home. 
+
+<audio src="path/to/your/audio.mp3" controls></audio>
 - - -
 
-# How to enter the Ukulele Improvisation Guide
-Everytime you get lost, [you can enter the maze again here](guide), who knows what you're going to find this time.
+# Ready to dive in?
+ [The improvisation journey always starts here](guide). Feeling lost? No problem! This page is your home base 👉 come back anytime to start fresh.
 
 ---
 
 # How to Support the Project
-This website's content is made entirely free because I care more about people accessing this knowledge than about money. You can support this project by [becoming a member](patreon). 
+Everything's free because sharing knowledge feels more important than money. You can greatly support this project by [becoming a member](patreon)  
 
 - - -
 
  ```
-*Part of my daily routine involves writing a lot, you can expect this place to evolve a lot as time goes<br>*
-*This Website currently contains about: 16 notes.  The last note was updated: Today* 
+*Attention:  I write like a maniac, so this place is always evolving. 
+Current note count: 16 and growing! - Last update: Fresh out of the oven (aka Today)*
 ```
 
