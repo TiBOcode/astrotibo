@@ -1,0 +1,65 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+
+// Fetch all notes from the 'notes' collection
+const allNotes = await getCollection('notes');
+
+// Sort notes by date if you have a date field, otherwise you can sort by title
+allNotes.sort((a, b) => new Date(b.data.date) - new Date(a.data.date));
+---
+
+<Layout title="Blog">
+  <div class="blog-content">
+    <h1>Blog Posts</h1>
+    <ul class="post-list">
+      {allNotes.map((note) => (
+        <li>
+          <a href={`/notes/${note.slug}`} class="post-link">
+            <span class="post-title">{note.data.title}</span>
+            {note.data.description && <span class="post-description">{note.data.description}</span>}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</Layout>
+
+<style>
+  .blog-content {
+    color: white;
+    padding: 20px;
+  }
+  .blog-content h1 {
+    color: white;
+    margin-bottom: 20px;
+  }
+  .post-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  .post-link {
+    display: block;
+    background-color: #333;  /* Dark background for the container */
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  .post-link:hover {
+    background-color: #444;  /* Slightly lighter on hover */
+  }
+  .post-title {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  .post-description {
+    display: block;
+    font-size: 0.9em;
+    color: #ccc;  /* Slightly muted color for description */
+  }
+</style>

@@ -1,0 +1,57 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="TiBO's Notes">
+  <div class="relative min-h-screen overflow-hidden">
+    <div class="absolute inset-0 bg-cover bg-top bg-no-repeat" style="background-image: url('/images/UkuleleLandScape.jpeg');" id="bg-image"></div>
+    <main class="relative z-10">
+      <section class="h-screen flex flex-col justify-start items-center pt-32">
+        <div class="text-center text-black bg-white bg-opacity-70 p-8 rounded-lg max-w-2xl">
+          <h1 class="text-5xl sm:text-6xl font-bold mb-4">Welcome to My Notes</h1>
+          <p class="text-lg sm:text-xl mb-8 font-bold">A journey through Music, Life, and Everything in between</p>
+          <a href="/notes/index" class="bg-black text-white px-8 py-3 rounded-full hover:bg-opacity-80 transition">Start Exploring</a>
+        </div>
+      </section>
+      <section id="explore" class="min-h-screen bg-gradient-to-b from-transparent to-white p-8">
+        <div class="max-w-3xl mx-auto pt-32">
+          <h2 class="text-4xl font-bold mb-6">Dive Into My World</h2>
+          <p class="mb-8">Feel free to click on any of the links above to start exploring. Each note is connected to others, forming a web of ideas and insights.</p>
+          <a href="/content" class="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition">Overview the Notes</a>
+        </div>
+      </section>
+    </main>
+  </div>
+</Layout>
+
+<style>
+  html {
+    scroll-behavior: smooth;
+  }
+   #bg-image {
+    background-image: url('/images/UkuleleLandScape.jpeg');
+    background-size: 120% auto;
+  }
+  @media (max-width: 1024px) {
+    #bg-image {
+      background-size: 140% auto;
+    }
+  }
+  @media (max-width: 768px) {
+    #bg-image {
+      background-size: 160% auto;
+    }
+  }
+  @media (max-width: 640px) {
+    #bg-image {
+      background-size: 180% auto;
+    }
+  }
+</style>
+
+<script>
+  window.addEventListener('scroll', () => {
+    const scrollPosition = window.scrollY;
+    document.getElementById('bg-image').style.transform = `translateY(${scrollPosition * 0.5}px)`;
+  });
+</script>

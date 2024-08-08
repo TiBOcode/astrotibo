@@ -1,0 +1,37 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import NoteFooter from '../../components/NoteFooter.astro';
+import { fade } from 'astro:transitions';
+
+export async function getStaticPaths() {
+  const notes = await getCollection('notes');
+  return notes.map(note => ({
+    params: { slug: note.slug },
+    props: { note },
+  }));
+}
+
+const { note } = Astro.props;
+const { Content } = await note.render();
+---
+
+<Layout title={note.data.title}>
+  <article transition:animate={fade({ duration: '0.3s' })}>
+    <div class="prose prose-lg mx-auto mt-10 px-4 max-w-3xl">
+      <h1>{note.data.title}</h1>
+      {note.data.description && <p class="description">{note.data.description}</p>}
+      <Content />
+    </div>
+  </article>
+  
+  <NoteFooter />
+</Layout>
+
+<style>
+  .description {
+    font-style: italic;
+    color: #666;
+    margin-bottom: 1rem;
+  }
+</style>

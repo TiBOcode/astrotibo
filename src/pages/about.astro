@@ -1,0 +1,24 @@
+
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="TiBO's Notes">
+  <main class="min-h-screen bg-gray-100 p-8 flex items-center justify-center">
+    <div class="max-w-xl bg-white p-6 shadow-lg transform rotate-1">
+      <div class="aspect-w-4 aspect-h-3 mb-6">
+        <img src="/images/ProfilUkulele.jpeg" alt="TiBO playing ukulele" class="object-cover rounded">
+      </div>
+      <h1 class="text-4xl font-handwriting mb-4">I'm Thibaut Gabriel, a French guy</h1>
+      <p class="mb-6 text-gray-700">Thoughts on music, life, and everything in between. Just like this landscape, my notes are vast and interconnected.</p>
+      <a href="/notes" class="inline-block bg-yellow-400 text-gray-900 px-6 py-2 rounded hover:bg-yellow-300 transition">Explore Notes</a>
+    </div>
+  </main>
+</Layout>
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+  .font-handwriting {
+    font-family: 'Caveat', cursive;
+  }
+</style>

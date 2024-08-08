@@ -1,0 +1,47 @@
+---
+const navItems = [
+  { title: 'Notes', url: '/notes/index' },
+  { title: 'About', url: '/about' },
+];
+---
+
+<header class="bg-cream py-4 px-6 flex justify-between items-center border-b border-gray-300">
+
+  <div class="logo">
+<a href="/" class="text-2xl font-bold text-gray-800">TiBO <span class="text-sm">Early Access</span></a>
+
+
+
+  </div>
+  
+  <nav class="flex items-center space-x-8">
+    {navItems.map((item) => (
+      <a href={item.url} class="nav-link text-gray-600 hover:text-gray-800 relative transition-colors">
+        {item.title}
+        <span class="underline-hover absolute left-0 bottom-0 w-0 h-1 bg-gray-800 transition-all"></span>
+      </a>
+    ))}
+    <a href="/notes/patreon" class="bg-transparent hover:bg-gray-800 text-gray-800 hover:text-white py-2 px-4 border border-gray-800 hover:border-transparent rounded transition-colors">
+      Patreon
+      ➚
+    </a>
+  </nav>
+</header>
+
+<style>
+  .bg-cream {
+    background-color: White;
+  }
+
+  .nav-link:hover .underline-hover {
+    width: 100%;
+    height: 1px; /* Adjust the thickness of the underline here */
+  
+  }
+
+  .nav-link {
+    position: relative;
+    display: inline-block;
+    padding-bottom: 1px;
+  }
+</style>
