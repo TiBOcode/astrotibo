@@ -11,7 +11,7 @@ Through these notes, you'll learn about a different playstyle revolving around s
 
 # Foundation of the method
 Whenever you're ready, [start with the foundation](foundation)
-<audio controls src="/audio/UkuleleTest.mp3"></audio>
+
 
 
 
