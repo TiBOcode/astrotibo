@@ -5,7 +5,7 @@ title: Foundation
 
 DRAFT 
 
-What you're going to learn is a unique approach to Fingerstyle Ukulele Improvisation, it revolves around a few Principles
+What you're going to learn is a unique approach to Fingerstyle Ukulele Improvisation, it revolves around a few Principles:
 
  
 
