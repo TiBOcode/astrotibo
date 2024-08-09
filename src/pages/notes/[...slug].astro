@@ -35,3 +35,41 @@ const { Content } = await note.render();
     margin-bottom: 1rem;
   }
 </style>
+
+<style is:global>
+  /* Animated link styles */
+  .prose a {
+    @apply text-blue-500 no-underline relative;
+    transition: color 0.3s ease;
+  }
+
+  .prose a::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: theme('colors.orange.500');
+    transform: scaleX(0);
+    transform-origin: bottom right;
+    transition: transform 0.3s ease;
+  }
+
+  .prose a:hover {
+    @apply text-orange-500;
+  }
+
+  .prose a:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
+
+  .prose a:active {
+    @apply text-purple-500;
+  }
+
+  .prose a:active::after {
+    @apply bg-purple-500;
+  }
+</style>

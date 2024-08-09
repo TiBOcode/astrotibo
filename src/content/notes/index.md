@@ -1,24 +1,23 @@
 ---
-title: Welcome to the Ukulele Improvisation Guide
-
+title: Hey there, explorer!
 ---
-Hey there, explorer! You've at the gates of a world where music, life, and everything in between collide in the most beautiful way. This is where we break the rules, embrace creativity, and learn to speak through our Ukuleles.
 
+ You're at the gates of a maze where music, life, and everything in between collide in the most beautiful way. This is where we break the rules, embrace creativity, and learn.
 
-### Before you dive in, here's the deal:
+### Before you step in, here's the deal:
 
 1. All content here is 100% free. Yep, you read that right.
-2. This isn't your average website. [non-linear website designed to make learning feel like play.](nonlinear) 
-3. There's no "right" way to explore. Let your curiosity be your guide!
+2. This isn't your average website. It's a non-linear website designed to make learning feel like play.
+3. Is it a Maze... or is it a Guide? It's a Maze that lets your own curiosity be the guide! There's "no right or wrong" here 
 
-One simple rule: Just let your curiosity and interest guide you from clicks to clicks until you find your way back home. 
+If you want to learn more, click here to [explore why non linear website makes learning more efficient](nonlinear). One Simple Rule: Just let your curiosity and interest guide you from clicks to clicks until you find your way back home. 
 
-<audio src="/audio/UkuleleTest" controls></audio>
+<audio src="/audio/UkuleleTest.mp3" controls></audio>
 
 - - -
 
-# Wait... is it a Maze or a Guide?
-[The journey to learn about Ukulele Improvisation always begins here](guide). Feeling lost? No problem! This page is your home base 👉 come back anytime to start fresh.
+# Master Ukulele Improvisation 
+[100% of the content to learn Ukulele Improvisation always begins with this link](guide). That's the path you will follow whenever you want to start fresh with a different route.
 
 ---
 # Support this one man Project
