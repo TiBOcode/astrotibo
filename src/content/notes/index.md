@@ -1,8 +1,9 @@
 ---
 title: Welcome to the Ukulele Improvisation Guide
----
 
+---
 Hey there, explorer! You've at the gates of a world where music, life, and everything in between collide in the most beautiful way. This is where we break the rules, embrace creativity, and learn to speak through our Ukuleles.
+
 
 ### Before you dive in, here's the deal:
 
