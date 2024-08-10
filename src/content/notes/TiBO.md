@@ -17,12 +17,14 @@ Money and Fame: [Value First Approach](valuevfa.md)
 Ego and Identity 📝[Self Less Service](📝sls.md)
 Relation to others:  📝[Authenticity & Vulnerability](📝authenticity.md)
 
-![Alt text](/images/SkillsPassionsMoney.png)
+What I'm working towards
+
 
 ---
-Related:📝[My routine for Physical and Mental Health](📝routine.md)
+Related:
+📝[My routine for Physical and Mental Health](📝routine.md)
 
-
+![Alt text](/images/SkillsPassionsMoney.png)
 
 
 
