@@ -10,15 +10,17 @@ Through these notes, you'll learn about a different playstyle revolving around s
 
 # The 3 Guiding Principles
 
-1. ["Free Expression" ](freeexpression)
+1. ["Use Music as a tool for Self Discovery" ](freeexpression)
 
 2. ["Breaking Conventions" ](conventions)
 
 3. ["Minimalism over Complexity in Music"](minimalism)
 
+5. Trust the process 
+
 # Start Learning Now
 
-Whenever you're ready, [start with the foundation](foundation.md)
+Whenever you're ready, [start with the foundation](foundation)
 
 
 

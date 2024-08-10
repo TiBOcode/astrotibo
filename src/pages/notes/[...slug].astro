@@ -12,6 +12,7 @@ export async function getStaticPaths() {
   }));
 }
 
+
 const { note } = Astro.props;
 const { Content } = await note.render();
 ---
@@ -39,7 +40,7 @@ const { Content } = await note.render();
 <style is:global>
   /* Animated link styles */
   .prose a {
-    @apply text-blue-500 no-underline relative;
+    @apply text-orange-500 no-underline relative;
     transition: color 0.3s ease;
   }
 

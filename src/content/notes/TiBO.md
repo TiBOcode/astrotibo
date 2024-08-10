@@ -17,6 +17,7 @@ Money and Fame: [Value First Approach](valuevfa.md)
 Ego and Identity 📝[Self Less Service](📝sls.md)
 Relation to others:  📝[Authenticity & Vulnerability](📝authenticity.md)
 
+![Alt text](/images/SkillsPassionsMoney.png)
 
 ---
 Related:📝[My routine for Physical and Mental Health](📝routine.md)

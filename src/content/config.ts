@@ -3,7 +3,7 @@ import { defineCollection, z } from 'astro:content';
 const notesCollection = defineCollection({
   type: 'content',
   schema: z.object({
-    title: z.string(),
+    title: z.string().optional(),
     description: z.string().optional(),
   }),
 });
