@@ -5,8 +5,14 @@ import Layout from '../layouts/Layout.astro';
 // Fetch all notes from the 'notes' collection
 const allNotes = await getCollection('notes');
 
-// Sort notes by date if you have a date field, otherwise you can sort by title
-allNotes.sort((a, b) => new Date(b.data.date) - new Date(a.data.date));
+// Sort notes by title if date is not available
+allNotes.sort((a, b) => {
+  if (a.data.date && b.data.date) {
+    return new Date(b.data.date).getTime() - new Date(a.data.date).getTime();
+  }
+  // Fallback to sorting by title
+  return a.data.title.localeCompare(b.data.title);
+});
 ---
 
 <Layout title="Blog">
@@ -18,6 +24,11 @@ allNotes.sort((a, b) => new Date(b.data.date) - new Date(a.data.date));
           <a href={`/notes/${note.slug}`} class="post-link">
             <span class="post-title">{note.data.title}</span>
             {note.data.description && <span class="post-description">{note.data.description}</span>}
+            {note.data.date && (
+              <span class="post-date">
+                {new Date(note.data.date).toLocaleDateString()}
+              </span>
+            )}
           </a>
         </li>
       ))}
@@ -40,7 +51,7 @@ allNotes.sort((a, b) => new Date(b.data.date) - new Date(a.data.date));
   }
   .post-link {
     display: block;
-    background-color: #333;  /* Dark background for the container */
+    background-color: #333;
     color: white;
     text-decoration: none;
     padding: 15px;
@@ -49,7 +60,7 @@ allNotes.sort((a, b) => new Date(b.data.date) - new Date(a.data.date));
     transition: background-color 0.3s ease;
   }
   .post-link:hover {
-    background-color: #444;  /* Slightly lighter on hover */
+    background-color: #444;
   }
   .post-title {
     display: block;
@@ -60,6 +71,12 @@ allNotes.sort((a, b) => new Date(b.data.date) - new Date(a.data.date));
   .post-description {
     display: block;
     font-size: 0.9em;
-    color: #ccc;  /* Slightly muted color for description */
+    color: #ccc;
+  }
+  .post-date {
+    display: block;
+    font-size: 0.8em;
+    color: #999;
+    margin-top: 5px;
   }
 </style>
