@@ -24,5 +24,5 @@ Separating the roles of left and right hands in ukulele playing.
 
 **Mastering the Ukulele: Why You Should Play with Four Fingers**
 
-Ukulele players often vary in their techniques, using anywhere from one to four fingers to play. [Some even opt for a pick](404.md) but these guys are strange. However, the most effective method is using four fingers, one for each string. Here's [why and how to work on Finger Dexterity](404).
+Ukulele players often vary in their techniques, using anywhere from one to four fingers to play. [Some even opt for a pick](404) but these guys are strange. However, the most effective method is using four fingers, one for each string. Here's [why and how to work on Finger Dexterity](404).
  
