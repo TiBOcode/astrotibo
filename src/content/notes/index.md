@@ -15,7 +15,7 @@ If you want to learn more, click here to [explore why non linear website makes l
 - - -
 
 # Start the learning Journey 
-[100% of the content can be found following this link](guide). That's the path you will follow whenever you want to start fresh with a different route.
+[100% of the content can be found following this link](notes/guide). That's the path you will follow whenever you want to start fresh with a different route.
 
 What you're going to find at the current moment:
 - Notes about Ukulele Improvisation, the philosophy, the why's and how's
