@@ -17,15 +17,15 @@ Feelings: This part's a bit too long, I write about too much it's not concise an
 
 1. ["Use Music as a tool for Self Discovery" ](/notes/freeexpression)
 
-2. ["Breaking Conventions" ](conventions)
+2. ["Breaking Conventions" ](/notes/conventions)
 
-3. ["Minimalism over Complexity in Music"](minimalism)
+3. ["Minimalism over Complexity in Music"](/notes/minimalism)
 
-4. Trust the process 
+4. [Learn a little everyday](/notes/guide-learning)
 
 # Start Learning & Practice Now
 
-Whenever you're ready, [start with the foundation](foundation)
+Whenever you're ready, [start with the foundation](/notes/foundation)
 
 
 
@@ -35,17 +35,17 @@ You will be equipped with a 📝*[RoadMap](404)* to find your way, but only when
 
 # Glossary
 
-[Here's the ULTIMATE UKULELE TECHNIQUES GLOSSARY ](moctechniques)
-
+[ULTIMATE UKULELE TECHNIQUES ](/notes/moctechniques)
+[WONDERFUL TIPS](/notes/moctips)
 
 # Other Stuff you might need (or not)
 - I'll list my videos here too, idk how yet
-[Video listing](videos)
+[Video listing](/notes/videos)
 
 - And here's some Ukulele Music for you to enjoy
 
 <audio src="/audio/UkuleleTest.mp3" controls></audio>
 
-- Here's an unrelated note about [the Leap of Faith in Decision Making](leap-of-faith)
+- Here's an unrelated note about [the Leap of Faith in Decision Making](/notes/leap-of-faith)
 
 

@@ -3,7 +3,7 @@ title: Tibo
 ---
 
 
-[My name is Thibaut Gabriel](thibaut) but you can call me Tibo, I'm a 28years old French guy who's trying to build a life for himself. Like everyone, I guess. 
+[My name is Thibaut Gabriel](/notes/thibaut) but you can call me Tibo, I'm a 28years old French guy who's trying to build a life for himself. Like everyone, I guess. 
 
 ## My life took a big turn of events
 About 4/5 years ago, I left a promising career to start a cross country journey by bike which never really ended. The impact it had on my life is immense. Among many things I picked upon the road, there was the Ukulele.

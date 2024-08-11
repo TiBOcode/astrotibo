@@ -6,7 +6,7 @@ When people start practicing and creating their first improvisation loop, they o
 
 # The power of simplicity
 This whole approach to improvisation is about taking the most out of simplicity
-Minimalism, however, is about [less is more]. When you strip down a composition to its essential elements, every note, strum, or beat carries greater weight and meaning. This approach is especially resonant in instruments like the ukulele
+Minimalism, however, is about [less is more](/notes/lessismore). When you strip down a composition to its essential elements, every note, strum, or beat carries greater weight and meaning. This approach is especially resonant in instruments like the ukulele
 
 Simplicity isn’t about limiting creativity; it’s about focusing it. By embracing fewer chords or a simpler rhythm, you allow the true essence of the music to emerge. 
 1. Accessibility: Simple loops allow you to start creating beautiful sounds right away, boosting your confidence and motivation.

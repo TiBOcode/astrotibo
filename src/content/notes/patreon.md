@@ -9,6 +9,3 @@ Your support truly matters and would greatly accelerate the development of this 
 
 [Support this project: Become a member on Patreon](https://www.patreon.com/TiBO_Ukulele)
 
-
-
-<BackButton />

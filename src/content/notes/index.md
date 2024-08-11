@@ -24,7 +24,7 @@ What you're going to find at the current moment:
 
 ---
 # Support this one man Project
-Everything's free because sharing knowledge feels more important to me than money, you can support this project by [becoming a member](patreon)  
+Everything's free because sharing knowledge feels more important to me than money, you can support this project by [becoming a member](/notes/patreon)  
 
 - - -
 
