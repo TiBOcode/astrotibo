@@ -15,7 +15,7 @@ Feelings: This part's a bit too long, I write about too much it's not concise an
 
 # The Ukulele Unorganized Principles (UUP for short)
 
-1. ["Use Music as a tool for Self Discovery" ](freeexpression)
+1. ["Use Music as a tool for Self Discovery" ](/notes/freeexpression)
 
 2. ["Breaking Conventions" ](conventions)
 

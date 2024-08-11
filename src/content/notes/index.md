@@ -10,12 +10,12 @@ title: Hey there! Welcome to the Notes
 2. This isn't your average website. It's a non-linear website designed to make learning feel like play.
 3. Is it a Maze... or is it a Guide? It's a Maze that lets your own curiosity be the guide! There's "no right or wrong" here 
 
-If you want to learn more, click here to [explore why non linear website makes learning more efficient](nonlinear). One Simple Rule: Just let your curiosity and interest guide you from clicks to clicks until you find your way back home. 
+If you want to learn more, click here to [explore why non linear website makes learning more efficient](/notes/nonlinear). One Simple Rule: Just let your curiosity and interest guide you from clicks to clicks until you find your way back home. 
 
 - - -
 
 # Start the learning Journey 
-[100% of the content can be found following this link](guide). That's the path you will follow whenever you want to start fresh with a different route.
+[100% of the content can be found following this link](/notes/guide). That's the path you will follow whenever you want to start fresh with a different route.
 
 What you're going to find at the current moment:
 - Notes about Ukulele Improvisation, the philosophy, the why's and how's
