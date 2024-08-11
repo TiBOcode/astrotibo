@@ -1,22 +1,32 @@
 ---
 ---
-
 <footer class="mt-16 pb-16 px-8">
-    <div class="flex justify-center">
-      <a 
-        href="/" 
-        class="bg-gray-800 text-white rounded-full p-4 shadow-lg hover:bg-gray-700 transition-colors duration-300 flex items-center justify-center" 
-        aria-label="Back to Home"
-      >
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
-        </svg>
-      </a>
-    </div>
-  </footer>
-  
-  <style>
-    footer {
-      font-family: 'Arial', sans-serif;
-    }
-  </style>
+  <div class="flex justify-center">
+    <button
+      id="backButton"
+      class="bg-gray-800 text-white rounded-full p-4 shadow-lg hover:bg-gray-700 transition-colors duration-300 flex items-center justify-center"
+      aria-label="Go Back"
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
+      </svg>
+    </button>
+  </div>
+</footer>
+
+<script>
+document.addEventListener('astro:page-load', () => {
+  const backButton = document.getElementById('backButton');
+  if (backButton) {
+    backButton.addEventListener('click', () => {
+      history.back();
+    });
+  }
+});
+</script>
+
+<style>
+footer {
+  font-family: 'Arial', sans-serif;
+}
+</style>

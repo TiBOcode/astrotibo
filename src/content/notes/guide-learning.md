@@ -1,9 +1,24 @@
 ---
 title: Developing the proper Learning Mindset
 ---
-Learning Music is difficult. But what if we could make it more simple? What if we could Learn how to Learn
+Learning Music is difficult. However what if we could make it more simple? 
 
-It's difficult because it involves a holistic understanding of many elements. 
+Here are a few approaches to develop the right mindset
+
+
+# Understand the 5 Emotional Stages of developing a Passion
+
+![[/images/Emotional-Cycle-of-Change.png]]
+
+| Stage                   | Description                                                                                                                                                                                          |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Uninformed Optimism** | That's the excitement when you first pick up the Ukulele. You're thrilled and motivated at the idea of learning it. That's blind optimism, you're quite unaware of how complex this journey will be. |
+| **Informed Pessimism**  | That's when you start understanding, the difficulties become apparent and the Optimism fades as you realize how much you suck, leading to doubts and frustration.                                    |
+| **Valley of Despair**   | The lowest point where progress feels slow and playing becomes more challenging. **That's when most people stop playing**                                                                            |
+| **Informed Optimism**   | That's when your head comes out of the water thanks to persistent practice, you start seeing progress but more importantly, you understand how to learn and you start to trust the process           |
+| **Passion**             | The final stage where you feel accomplished and deeply connected to your new Passion. From there it only goes upward.                                                                                |
+
+If you're curious, [here's how it went for me](/notes/despairtopassion)
 
 ### Physical Skills vs Mental Skills
 
@@ -16,5 +31,5 @@ It's difficult because it involves a holistic understanding of many elements.
 | Develop fine muscle control for chord shapes & fingerpicking          | 📝Understanding the complex relationship between left hand and right hand |
 | Acting Music Theory                                                   | Understanding Music Theory                                                |
 | Being able to produce the sound you imagine                           | Visualizing chord shapes on the fretboard                                 |
-It sounds like you've broken down a skill into manageable parts, which is a great strategy for learning. With a clear roadmap, it's easier to track progress and focus on specific areas that need improvement. What's the skill or subject you're working on, and how's the roadmap shaping up so far?
-- [ ] 
+
+

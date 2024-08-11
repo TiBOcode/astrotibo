@@ -1,25 +1,19 @@
 ---
 import Layout from '../layouts/Layout.astro';
-
+import NoteFooter from "../components/NoteFooter.astro";
 ---
- 
 
 <Layout title="Ukulele Improvisation">
-	<main>
+	<main class="flex items-top justify-center">
 		 
-  <div class="prose prose-lg mx-auto mt-10 px-4 max-w-3xl">
-    <h1>📝You landed into UNWRITTEN TERRITORY</h1>
-    
+  <div class="prose prose-lg text-center mx-auto mt-10 px-4 max-w-3xl">
+    <h1>UNWRITTEN TERRITORY</h1>
+    <h1>🌲📝🌳</h1>
 
+    <p><strong>You landed into Unwritten Terriroty.</strong> <br><br> 
+    Ideas take time to articulate but don't worry, this path might open up very soon. Get notified about new notes by <a href="notes/patreon">following on Patreon</a>.</p>
 
-This note hasn't been written yet but the intention is there! This path might open up very soon, Get notified about the new notes by <a href="notes/patreon">following on Patreon</a>
-
-<br>
-<br>
-
-<a href="notes/">Go back home</a> 
- </div>
+  </div>
 	</main>
-  
+	<NoteFooter />
 </Layout>
-

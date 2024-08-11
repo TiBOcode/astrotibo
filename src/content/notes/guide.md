@@ -36,6 +36,7 @@ You will be equipped with a 📝*[RoadMap](404)* to find your way, but only when
 # Glossary
 
 [ULTIMATE UKULELE TECHNIQUES ](/notes/moctechniques)
+
 [WONDERFUL TIPS](/notes/moctips)
 
 # Other Stuff you might need (or not)

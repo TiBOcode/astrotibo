@@ -5,6 +5,7 @@ import vue from '@astrojs/vue';
 export default defineConfig({
   output: 'static',
   integrations: [tailwind(), vue()],
+ 
   content: {
     collections: {
       notes: {
@@ -15,5 +16,15 @@ export default defineConfig({
         })
       }
     }
+  },
+  markdown: {
+    extendDefaultPlugins: true,
+    rehypePlugins: [
+      ['rehype-external-links', {
+        target: '_blank',
+        rel: ['noopener', 'noreferrer'],
+        content: { type: 'text', value: ' 🔗' }
+      }]
+    ]
   }
 });

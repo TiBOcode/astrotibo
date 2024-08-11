@@ -26,8 +26,6 @@ Here's why embracing simplicity in your ukulele improvisation is powerful:
 
 
 
-Remember, the value of your music isn't diminished because others can play it too. Instead, it's enhanced by its ability to connect people through shared musical experiences. Embrace the beauty in simplicity, and let your unique expression shine through even the most basic loops.
-
 When people start practicing and creating their very first improvisation loop, a common question that people have is "shouldn't it be harder to make something that sounds nice?". 
 There is a big social bias which makes us think that the harder the better...wait... no that's not what I meant. Ok I found a better way to articulate that idea: most people, if not everyone, would implicitly associate difficulty to beauty. The more difficult, the better. People expect music to follow this same motif and greatly underappreciate how amazing simplicity sound. 
 

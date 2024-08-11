@@ -13,18 +13,16 @@ About 4/5 years ago, I left a promising career to start a cross country journey 
 When talking about one's self, I like to talk about values. A value is the compass that guide one's actions after all, much like a North Star. 
 
 ##### My Values:
-Money and Fame: [Value First Approach](valuevfa.md) 
-Ego and Identity 📝[Self Less Service](📝sls.md)
-Relation to others:  📝[Authenticity & Vulnerability](📝authenticity.md)
+- Money and Fame: [Value First Approach](valuevfa.md) 
+- Ego and Identity 📝[Self Less Service](📝sls.md)
+- Relation to others: 📝[Authenticity & Vulnerability](📝authenticity.md)
 
-What I'm working towards
-
+### A Venn diagram I love about finding meaning
+![Skills Passions and Money](/images/img-SkillsPassionsMoney.png)
 
 ---
 Related:
-📝[My routine for Physical and Mental Health](📝routine.md)
-
-![Alt text](/images/SkillsPassionsMoney.png)
+📝[My routine for Physical and Mental Health](📝routine)
 
 
 
