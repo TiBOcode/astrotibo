@@ -2,9 +2,6 @@
 title: Value First Approach
 ---
 
-
-## Value First Approach
-
 **"My goal isn’t to make money. My goal isn’t to become famous. My goal is to give value to others in the pursuit of their well intentioned dreams. It means providing them with the tools and support they need to grow authentically."**
 
 We all want good for others (at least most of us) but we sometimes lose sight of this trying to fulfill our many desires. Taking care of myself physically and mentally to be able to give without expecting to receive.

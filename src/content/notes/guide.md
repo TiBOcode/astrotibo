@@ -13,37 +13,27 @@ Through these notes, you'll learn about a different playstyle revolving around s
 Feelings: This part's a bit too long, I write about too much it's not concise and it's not even atomic
 
 
-# The Ukulele Unorganized Principles (UUP for short)
-
-1. ["Use Music as a tool for Self Discovery" ](/notes/freeexpression)
-
-2. ["Breaking Conventions" ](/notes/conventions)
-
-3. ["Minimalism over Complexity in Music"](/notes/minimalism)
-
-4. [Learn a little everyday](/notes/guide-learning)
-
 # Start Learning & Practice Now
+
+Here are all the tips I'm currently writing about, the paths are messy so be careful
+[WONDERFUL TIPS](/notes/moctips)
+
 
 Whenever you're ready, [start with the foundation](/notes/foundation)
 
-
+A list of Ukulele Techniques 
+[ULTIMATE UKULELE TECHNIQUES ](/notes/moctechniques)
 
 # The Roadmap  
 
 You will be equipped with a 📝*[RoadMap](404)* to find your way, but only when I'll have it written. Stay tuned! 
 
-# Glossary
-
-[ULTIMATE UKULELE TECHNIQUES ](/notes/moctechniques)
-
-[WONDERFUL TIPS](/notes/moctips)
 
 # Other Stuff you might need (or not)
 - I'll list my videos here too, idk how yet
 [Video listing](/notes/videos)
 
-- And here's some Ukulele Music for you to enjoy
+- And somehow I can even add some few seconds of Ukulele Music for you to enjoy
 
 <audio src="/audio/UkuleleTest.mp3" controls></audio>
 
