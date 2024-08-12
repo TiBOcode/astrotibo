@@ -4,11 +4,11 @@ status:
 category: "[[mocwebsite]]"
 date: 2024-08-11
 ---
-A non linear website is an interconnected network of content rather than a traditional structure.
+A non linear website is an interconnected network that lets you in control of where to go next.
  
 Here's the deal: Our brain doesn't work like a textbook. It jumps around, makes weird connections, and sometimes learns best when you're not trying too hard. Sounds familiar? 
 
- not only there to avoid that issue but also **take advantage** of that same idea. It's a web of interconnected notes, each note representing an idea and connects to other related ideas.  
+Not only there to avoid that issue but also **take advantage** of that same idea. It's a web of interconnected notes, each note representing an idea and connects to other related ideas.  
 
 # 1. Freedom to Explore
 
@@ -33,7 +33,7 @@ Now that you are warned, you will still feel lost, but *go for it, explore and c
 - Learning a Skill is like Following a Firefly in a Dark Forest 
 *(You do not know what you don't know)*
 - Youtube's Algorithm translates into a non linear experience but it has its issues
-
+- [Youtube might not be happy about this blog](/notes/youtubeblog)
 ---
 ### References: 
 
