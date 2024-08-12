@@ -1,7 +1,7 @@
 ---
-title: Sometimes, listen to the Silence
+title: Listen to the Silence
 status: 
-category: 
+category: "[[Stories]]"
 date: 2024-08-12
 ---
 

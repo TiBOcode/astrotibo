@@ -27,6 +27,9 @@ This place is a waypoint to all my tips, it's a long process that requires lots 
 - Simplify Repeat Learn Repeat 
 - Have a Routine
 
+Ukulele World:
+- [[/notes/pick]]
+
 
 The Basics
 - Eat well & Drink water

@@ -14,7 +14,7 @@ When talking about one's self, I like to talk about values. A value is the compa
 
 ##### My Values:
 - Money and Fame: [Value First Approach](/notes/valuevfa) 
-- Ego and Identity 📝[Self Less Service](/notes/sls)
+- Ego and Identity [Self Less Service](/notes/value-self-less-service)
 - Relation to others: 📝[Authenticity & Vulnerability](/notes/authenticity)
 
 ### A Venn diagram I love about finding meaning
