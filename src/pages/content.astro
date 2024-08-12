@@ -2,81 +2,142 @@
 import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 
-// Fetch all notes from the 'notes' collection
 const allNotes = await getCollection('notes');
 
-// Sort notes by title if date is not available
-allNotes.sort((a, b) => {
-  if (a.data.date && b.data.date) {
-    return new Date(b.data.date).getTime() - new Date(a.data.date).getTime();
+const notesByYear = allNotes.sort((a, b) => {
+  return new Date(b.data.date || 0).getTime() - new Date(a.data.date || 0).getTime();
+}).reduce((acc, note) => {
+  const year = new Date(note.data.date || new Date()).getFullYear();
+  if (!acc[year]) {
+    acc[year] = [];
   }
-  // Fallback to sorting by title
-  return a.data.title.localeCompare(b.data.title);
-});
+  acc[year].push(note);
+  return acc;
+}, {});
+
+const years = Object.keys(notesByYear).sort((a, b) => b - a);
 ---
 
-<Layout title="Blog">
-  <div class="blog-content">
-    <h1>Blog Posts</h1>
-    <ul class="post-list">
-      {allNotes.map((note) => (
-        <li>
-          <a href={`/notes/${note.slug}`} class="post-link">
-            <span class="post-title">{note.data.title}</span>
-            {note.data.description && <span class="post-description">{note.data.description}</span>}
-            {note.data.date && (
-              <span class="post-date">
-                {new Date(note.data.date).toLocaleDateString()}
-              </span>
-            )}
-          </a>
-        </li>
+<Layout title="Cosmic Notes">
+  <main class="space-background min-h-screen p-8">
+    <h1 class="text-4xl font-bold mb-8 text-white text-center glow">Cosmic Notes Archive</h1>
+    
+    <div class="search-container mb-8 relative">
+      <input 
+        type="text" 
+        id="searchInput" 
+        placeholder="Search the cosmos..." 
+        class="w-full p-3 rounded-full bg-gray-800 bg-opacity-70 text-white pl-12 focus:outline-none focus:ring-2 focus:ring-blue-400"
+      >
+      <svg class="absolute left-3 top-1/2 transform -translate-y-1/2 w-6 h-6 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+      </svg>
+    </div>
+
+    <div id="notesList" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      {years.map(year => (
+        <div class="year-container">
+          <h2 class="text-3xl font-semibold mb-6 text-white text-center glow">{year}</h2>
+          <div class="space-y-6">
+            {notesByYear[year].map((note) => (
+              <div class="note-item floating" data-title={note.data.title.toLowerCase()}>
+                <a href={`/notes/${note.slug}`} class="block bg-gray-800 bg-opacity-70 p-6 rounded-lg hover:bg-opacity-90 transition-all transform hover:scale-105 hover:rotate-1">
+                  <h3 class="text-xl font-medium text-white mb-2">{note.data.title}</h3>
+                  {note.data.description && 
+                    <p class="text-gray-300 mb-2">{note.data.description}</p>
+                  }
+                  {note.data.date && 
+                    <p class="text-sm text-gray-400">
+                      {new Date(note.data.date).toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric'})}
+                    </p>
+                  }
+                </a>
+              </div>
+            ))}
+          </div>
+        </div>
       ))}
-    </ul>
-  </div>
+    </div>
+  </main>
 </Layout>
 
+<script>
+  function setupSearch() {
+    const searchInput = document.getElementById('searchInput');
+    const noteItems = document.querySelectorAll('.note-item');
+
+    searchInput.addEventListener('input', () => {
+      const searchTerm = searchInput.value.toLowerCase();
+      
+      noteItems.forEach(item => {
+        const title = item.getAttribute('data-title');
+        if (title.includes(searchTerm)) {
+          item.style.display = '';
+          item.classList.add('found');
+        } else {
+          item.style.display = 'none';
+          item.classList.remove('found');
+        }
+      });
+    });
+  }
+
+  function addFloatingAnimation() {
+    const noteItems = document.querySelectorAll('.note-item');
+    noteItems.forEach((item, index) => {
+      item.style.animationDelay = `${index * 0.1}s`;
+    });
+  }
+
+  document.addEventListener('astro:page-load', () => {
+    setupSearch();
+    addFloatingAnimation();
+  });
+</script>
+
 <style>
-  .blog-content {
-    color: white;
-    padding: 20px;
+  .space-background {
+    background-color: #0a0a2a;
+    background-image: 
+      radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 40px),
+      radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 30px),
+      radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 40px),
+      radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.1) 2px, transparent 30px);
+    background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;
+    background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
+    animation: backgroundScroll 60s linear infinite;
   }
-  .blog-content h1 {
-    color: white;
-    margin-bottom: 20px;
+
+  @keyframes backgroundScroll {
+    from { background-position: 0 0, 40px 60px, 130px 270px, 70px 100px; }
+    to { background-position: -550px -550px, -310px -290px, -120px -280px, -80px -50px; }
   }
-  .post-list {
-    list-style-type: none;
-    padding: 0;
+
+  .glow {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #ff00de, 0 0 35px #ff00de, 0 0 40px #ff00de, 0 0 50px #ff00de, 0 0 75px #ff00de;
   }
-  .post-link {
-    display: block;
-    background-color: #333;
-    color: white;
-    text-decoration: none;
-    padding: 15px;
-    margin-bottom: 10px;
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
+
+  .floating {
+    animation: floating 3s ease-in-out infinite;
   }
-  .post-link:hover {
-    background-color: #444;
+
+  @keyframes floating {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
   }
-  .post-title {
-    display: block;
-    font-size: 1.2em;
-    font-weight: bold;
-    margin-bottom: 5px;
+
+  .found {
+    animation: pulse 1s infinite;
   }
-  .post-description {
-    display: block;
-    font-size: 0.9em;
-    color: #ccc;
+
+  @keyframes pulse {
+    0% { box-shadow: 0 0 0 0 rgba(66, 153, 225, 0.7); }
+    70% { box-shadow: 0 0 0 10px rgba(66, 153, 225, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(66, 153, 225, 0); }
   }
-  .post-date {
-    display: block;
-    font-size: 0.8em;
-    color: #999;
-    margin-top: 5px;
+
+  body {
+    cursor: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5'/%3E%3Cpath d='M9 18h6'/%3E%3Cpath d='M10 22h4'/%3E%3C/svg%3E"), auto;
   }
 </style>

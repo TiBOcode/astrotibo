@@ -29,8 +29,8 @@ Everything's free because sharing knowledge feels more important to me than mone
 - - -
 
 
-*Attention:  I write like a maniac, so this place is always evolving. 
-Current note count: 24 and growing! - Last update: Fresh out of the oven (aka Today)*
+*Attention:  I write like a maniac, so this place is always evolving. <br>
+Current note count: 24 and growing! <br> Last update: Fresh out of the oven (aka Today)* <br>
 Number of people who returned here after getting lost: 239
 
 
