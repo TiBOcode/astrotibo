@@ -15,20 +15,20 @@ Feelings: This part's a bit too long, I write about too much it's not concise an
 
 # Start Learning & Practice Now
 
-Here are all the tips I'm currently writing about, the paths are messy so be careful
-[WONDERFUL TIPS](/notes/moctips)
+This is the writing factory, with the tips I'm currently writing about, it serves as a checkpoint for all the advanced concepts I want to share about music & life. <br>
+[Maze of knowledge](/notes/moctips)
 
 
-Whenever you're ready, [start with the foundation](/notes/foundation)
+A list of Ukulele Techniques I'll detail. More tangible elements of Ukulele playing
+[Ukulele Techniques](/notes/moctechniques)
 
-A list of Ukulele Techniques 
-[ULTIMATE UKULELE TECHNIQUES ](/notes/moctechniques)
+Here there will be a more structured learning path for both beginner and more advanced players to 📝[Develop their skills](/notes/foundation)
 
 # The Roadmap  
 
-You will be equipped with a 📝*[RoadMap](/notes/roadmap)* to find your way, but only when I'll have it written. Stay tuned! 
+You will be equipped with a 📝[RoadMap](/notes/roadmap) to find your way, but only when I'll have it written. Stay tuned! 
 
-
+---
 # Other Stuff you might need (or not)
 - I'll list my videos here too, idk how yet
 [Video listing](/notes/videos)

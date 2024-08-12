@@ -15,7 +15,7 @@ If you want to learn more, click here to [explore why non linear website makes l
 - - -
 
 # Start the learning Journey 
-[100% of the content can be found following this link](/notes/guide). That's the path you will follow whenever you want to start fresh with a different route.
+[100% of the content can be found following this link](/notes/guide). <br>That's the path you will follow whenever you want to start fresh with a different route.
 
 What you're going to find at the current moment:
 - Notes about Ukulele Improvisation, the philosophy, the why's and how's
@@ -30,7 +30,7 @@ Everything's free because sharing knowledge feels more important to me than mone
 
 
 *Attention:  I write like a maniac, so this place is always evolving. 
-Current note count: 21 and growing! - Last update: Fresh out of the oven (aka Today)*
+Current note count: 24 and growing! - Last update: Fresh out of the oven (aka Today)*
 Number of people who returned here after getting lost: 239
 
 

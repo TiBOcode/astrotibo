@@ -17,7 +17,7 @@ This place is a waypoint to all my tips, it's a long process that requires lots 
 # Other Even More Unorganized Tips (EMUT)
 - [Listen to the sound](/notes/listen) 
 - [How important is your posture really?](/notes/posture)
-- Sometimes, listen to the silence
+- [Sometimes, listen to the silence](/notes/listen-to-the-silence)
 - Play with 4 fingers
 - Sing what you play 
 - Play Slower

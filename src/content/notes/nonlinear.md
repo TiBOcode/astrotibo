@@ -4,7 +4,7 @@ status:
 category: "[[mocwebsite]]"
 date: 2024-08-11
 ---
-A non linear website is an interconnected network of content rather than a traditional hierarchical structure.
+A non linear website is an interconnected network of content rather than a traditional structure.
  
 Here's the deal: Our brain doesn't work like a textbook. It jumps around, makes weird connections, and sometimes learns best when you're not trying too hard. Sounds familiar? 
 

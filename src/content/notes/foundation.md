@@ -14,7 +14,8 @@ What you're going to learn is a unique approach to Fingerstyle Ukulele Improvisa
 This is the most important element in this particular style of improvisation. These are repeating finger-picking patterns that form the basis of improvisation. They provide a structure within which variations and creativity can be nested. It's the *[Structure that allows for Improvisation]()*
 
 
-# Left Hand-Right Hand Approach
+# Systemic Approach etc 
+Left Hand-Right Hand Approach
 
 Separating the roles of left and right hands in ukulele playing. 
 - The left hand is responsible for forming chords and fingering notes
