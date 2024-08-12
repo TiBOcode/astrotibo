@@ -1,18 +1,16 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
-
 import NoteFooter from '../../components/NoteFooter.astro';
 import { fade } from 'astro:transitions';
 
 export async function getStaticPaths() {
   const notes = await getCollection('notes');
   return notes.map(note => ({
-    params: { slug: note.slug },
+    params: { slug: note.slug.replace(/\.md$/, '') }, // Remove .md from slug
     props: { note },
   }));
 }
-
 
 const { note } = Astro.props;
 const { Content } = await note.render();
@@ -26,11 +24,9 @@ const { Content } = await note.render();
       <Content />
     </div>
   </article>
-  
+ 
   <NoteFooter />
 </Layout>
-
-
 
 <style>
   .description {
