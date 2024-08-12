@@ -20,7 +20,7 @@ Learning is everywhere. Letting go of expectation and trusting the process is wh
 
 
 ### Where you expect to learn is not where you'll learn the most
-![Non Linear Maze](img-non-linear.png)
+![Non Linear Maze](/images/img-non-linear.png)
 
 # 3. Embrace getting lost, because you will. 
 

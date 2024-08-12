@@ -18,7 +18,7 @@ When talking about one's self, I like to talk about values. A value is the compa
 - Relation to others: 📝[Authenticity & Vulnerability](/notes/authenticity)
 
 ### A Venn diagram I love about finding meaning
-![Skills Passions and Money](img-SkillsPassionsMoney.png)
+![Skills Passions and Money](/images/img-SkillsPassionsMoney.png)
 
 ---
 Related:

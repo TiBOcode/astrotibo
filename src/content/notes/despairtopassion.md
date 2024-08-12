@@ -1,6 +1,6 @@
 ---
 title: My Journey from Despair to Passion
-status: [seedlings]
+status: []
 category: 
 date: 2024-08-11
 ---
