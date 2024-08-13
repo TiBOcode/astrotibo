@@ -1,29 +1,30 @@
 import { defineConfig } from 'astro/config';
 import tailwind from "@astrojs/tailwind";
 import vue from '@astrojs/vue';
+import rehypeExternalLinks from 'rehype-external-links';
 
 export default defineConfig({
   output: 'static',
   integrations: [tailwind(), vue()],
- 
+
   content: {
     collections: {
       notes: {
-        type: 'content',
         schema: ({ z }) => z.object({
           title: z.string(),
-          description: z.string().optional(),
+          date: z.coerce.date().optional(),
+          description: z.string().optional().default(''),
         })
       }
     }
   },
+
   markdown: {
     extendDefaultPlugins: true,
     rehypePlugins: [
-      ['rehype-external-links', {
+      [rehypeExternalLinks, {
         target: '_blank',
         rel: ['noopener', 'noreferrer'],
-        content: { type: 'text', value: ' 🔗' }
       }]
     ]
   }

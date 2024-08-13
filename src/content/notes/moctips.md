@@ -20,7 +20,7 @@ This place is a waypoint to all my tips, it's a long process that requires lots 
 - [Sometimes, listen to the silence](/notes/listen-to-the-silence)
 - [hear-the-music-or-not](/notes/hear-the-music-or-not)
 - Play with 4 fingers
-- Sing what you play 
+- [Sing what you play](sing-what-you-play) 
 - Play Slower
 - Feel the Narrative (tension and release)
 - Learning to Learn is the most important skill 
