@@ -1,0 +1,49 @@
+---
+// Counter.astro
+---
+
+<div class="counter">
+    <h2>Simple Counter</h2>
+    <p>Count: <span id="count">0</span></p>
+    <button id="increment">Increment</button>
+    <button id="decrement">Decrement</button>
+  </div>
+  
+  <style>
+    .counter {
+      font-family: Arial, sans-serif;
+      max-width: 300px;
+      margin: 2rem auto;
+      padding: 1rem;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      text-align: center;
+    }
+    button {
+      margin: 0 0.5rem;
+      padding: 0.5rem 1rem;
+      font-size: 1rem;
+      cursor: pointer;
+    }
+  </style>
+  
+  <script>
+    let count = 0;
+    const countDisplay = document.getElementById('count');
+    const incrementBtn = document.getElementById('increment');
+    const decrementBtn = document.getElementById('decrement');
+  
+    function updateDisplay() {
+      countDisplay.textContent = count;
+    }
+  
+    incrementBtn.addEventListener('click', () => {
+      count++;
+      updateDisplay();
+    });
+  
+    decrementBtn.addEventListener('click', () => {
+      count--;
+      updateDisplay();
+    });
+  </script>

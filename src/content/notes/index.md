@@ -26,6 +26,7 @@ What you're going to find at the current moment:
 - Notes about Personal Growth, Self Discovery and Self Expression
 
 
+
 ---
 # Support this one man Project
 Everything's free because sharing knowledge feels more important to me than money, you can support this project by [becoming a member](/notes/patreon)  
