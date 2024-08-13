@@ -1,6 +1,16 @@
 ---
 title: Improvisation
+category:
+  - "[[Ukulele]]"
+date: 2024-08-13
+status:
+  - "[[🔴]]"
+  - "[[🌱]]"
+description:
 ---
+
+
+
 
 # Why should you learn how to improvise?
 
@@ -29,3 +39,5 @@ You can learn how to improvise much quicker than you think, as long as you have 
 
 
   
+---
+### Related:

@@ -1,7 +1,12 @@
 ---
 title: Sensory integration in Skill Mastery
-category: Mindfulness Ukulele
-date: 2024-08-12
+category:
+  - "[[Mindfulness]]"
+date: 2024-08-13
+status:
+  - "[[🪴]]"
+  - "[[🔴]]"
+description:
 ---
 *This note is part of a much broader series about Engaging all the Senses.*
 ```
@@ -22,10 +27,14 @@ Our hears, much like our other senses, are great at recognizing sounds we heard 
 The craziest part is that we're blind to it until we start developing these senses through accumulated practice. It takes weeks and months to develop these senses and learning comes along the way. 
 
 
-# Mastery transforms perception
+# Practice Transforms Perception
 
-And you can learn how to develop those skills by Engaging the Senses as early as possible
+And you can learn how to develop those skills by Engaging the Senses as early as possible. This is also how you should measure progress. Not by just "How beautiful is that thing you play" but rather "How much do you feel while playing".
 
+Can you feel the subtle touch of your fingers as you pluck the strings?
+Can you feel your pinky stretching from one string to the next?
+Can you feel the strings vibrate as you hear the sound they produce?
+Can you feel how the sound makes you feel like while at the same time imagine what's coming next?
 
 
 # The more you spend time hearing the sound, the better you'll become

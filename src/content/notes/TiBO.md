@@ -1,8 +1,12 @@
 ---
 title: Tibo
+category:
+  - "[[Personnal]]"
+date: 2024-08-01
+status:
+  - "[[🪴]]"
+description:
 ---
-
-
 [My name is Thibaut Gabriel](/notes/thibaut) but you can call me Tibo, I'm a 28years old French guy who's trying to build a life for himself. Like everyone, I guess. 
 
 ## My life took a big turn of events
@@ -20,9 +24,10 @@ When talking about one's self, I like to talk about values. A value is the compa
 ### A Venn diagram I love about finding meaning
 ![Skills Passions and Money](/images/img-SkillsPassionsMoney.png)
 
+
 ---
-Related:
-📝[My routine for Physical and Mental Health](/notes/routine)
+### Related:
+- 📝[My routine for Physical and Mental Health](/notes/routine)
 
 
 

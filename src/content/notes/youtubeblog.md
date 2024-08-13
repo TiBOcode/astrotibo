@@ -14,5 +14,5 @@ I thought about it, a friend of mine raised the same concern without me asking h
 
 ---
 ### Related:
-- The Youtube Paradox
-- The Creative Journey behind this project
+- 📝[The Youtube Paradox](youtube-paradox)
+- 📝[The Creative Journey behind this project](creative-process)

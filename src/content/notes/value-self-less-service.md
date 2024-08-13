@@ -23,7 +23,7 @@ My mission is to support others in their well intentioned dreams. There's a sayi
 
 Since 3 years now I feel very stable again. I'm driven and happy. I wake up everyday with a sense of duty, a genuine desire to study and help others. It's something I had never experienced before and it involved being satisfied with a simpler version of me. One that doesn't have to show others who he is (a bit less than usual at least) and one that learn the hard way through traveling & solitude, to develop inner Strength and Self Confidence.
 
-These are things that would make older people smile, [most of these learnings come from learning to interact with them in my travels.](wiser-people)
+These are things that would make older people smile, [most of these learnings come from learning to interact with them in my travels.](/notes/wiser-people)
 
 ---
 
@@ -32,3 +32,4 @@ Edit: Creating this blog is quite a thing for me; I used to write a lot without 
 
 ---
 ### Related:
+- [Meeting a Monk in Denmark taught me about Self-Less Service](ananda-gaori)

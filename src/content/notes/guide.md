@@ -1,5 +1,12 @@
 ---
-title: This is the Ukulele Improvisation Checkpoint
+title: This is the Ukulele Improvisation Hub
+category:
+  - "[[Ukulele]]"
+date: 2024-08-13
+status:
+  - "[[🌲]]"
+  - "[[🟠]]"
+description:
 ---
 ## Choose your path wisely
 
@@ -20,7 +27,7 @@ This is the writing factory, with the tips I'm currently writing about, it serve
 
 
 A list of Ukulele Techniques I'll detail. More tangible elements of Ukulele playing
-[Ukulele Techniques](/notes/moctechniques)
+[Ukulele Techniques](/notes/UkuleleTechniques)
 
 Here there will be a more structured learning path for both beginner and more advanced players to 📝[Develop their skills](/notes/foundation)
 
@@ -31,7 +38,7 @@ You will be equipped with a 📝[RoadMap](/notes/roadmap) to find your way, but 
 ---
 # Other Stuff you might need (or not)
 - I'll list my videos here too, idk how yet
-[Video listing](/notes/videos)
+[Video listing](Videos.md)
 
 - And somehow I can even add some few seconds of Ukulele Music for you to enjoy
 

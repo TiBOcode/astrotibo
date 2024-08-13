@@ -1,6 +1,15 @@
 ---
 title: Why am I not teaching songs?
+category:
+  - "[[Ukulele]]"
+date: 2024-08-13
+status: 
+description:
 ---
+
+
+
+
 
 
 First, because other people do it way better than I do. 
@@ -11,4 +20,4 @@ you're learning new stuff, feeling accomplished. But here's the deal: once you l
 
 Don't get me wrong, I have nothing against playing songs, whether it is singing or fingerstyle. Nothing beats the nostalgic aspect of playing a song you grew up with, nor the social aspect of connecting with your friends and family by sharing something that everyone knows.
 
-However I've always felt like improvising music has this **extremely underrated aspect** of using [Music  as a tool for Introspection and Self Expression](/notes/selfexpression)
+However I've always felt like improvising music has this **extremely underrated aspect** of using 📝[Music as a tool for Introspection and Self Expression](/notes/selfexpression)

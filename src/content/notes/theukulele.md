@@ -1,6 +1,19 @@
 ---
 title: The Ukulele is the one of the best instrument to Improvise on
+category:
+  - "[[Ukulele]]"
+date: 2024-08-03
+status:
+  - "[[🪴]]"
+  - "[[🟠]]"
+description:
 ---
+
+
+
+
+
+
 The Ukulele gained a lot in popularity since the last years and there are many reasons for that, some are Obvious, some are not. 
 # Limited Range, Small Size, Simplicity
 
@@ -31,6 +44,8 @@ Ukulele's simplicity allows for creative improvisation. Creative Expression allo
 Note: I'll write more on that with time.
 
 
-###### Related
-- Why is the Ukulele Tuned in gCEA
+
+---
+### Related:
+- [[📝Why is the Ukulele Tuned in gCEA]]
 - The Ukulele isn't a Gateway instrument to the Guitar

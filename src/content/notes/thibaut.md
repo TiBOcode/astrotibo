@@ -1,8 +1,12 @@
 ---
 title: My full name is Thibaut Gabriel.
+category:
+  - "[[Personnal]]"
+date: 2024-08-02
+status:
+  - "[[🪴]]"
+description:
 ---
-
-
 
 The French language has a deep passion for **silent letters**. Somehow Thibaut=Tibo... **it is pronounced the exact same way**. 
 Why making it simple when you can make it complicated? 
@@ -13,3 +17,7 @@ When my mom was choosing my name, the name was most commonly spelled "Thibau**l*
 **Thibault=Thibaut=Tibo**
 
 It seems thdat everyone speaking French natively has an advanced form of Inattentional Blindness related to these silent letters. 
+
+
+---
+### Related:

@@ -1,8 +1,9 @@
 ---
 title: What's a non linear Website?
-status: 
-category: "[[Website]]"
+category:
+  - "[[Website]]"
 date: 2024-08-11
+status:
 ---
 A non linear website is an interconnected network that lets you in control of where to go next.
  

@@ -1,35 +1,41 @@
 ---
-title: Developing the proper Learning Mindset
+title: The 5 Stages to Develop a Passion
+category:
+  - "[[Personnal]]"
+  - "[[Ukulele]]"
+date: 2024-08-13
+status:
+  - "[[🪴]]"
+  - "[[🔴]]"
+description:
 ---
-Learning Music is difficult. However what if we could make it more simple? 
-
-Here are a few approaches to develop the right mindset
 
 
-# Understand the 5 Emotional Stages of developing a Passion
+The most difficult part about learning Music -or anything else- is the process itself. It's sticking to your ambitions for long enough so that they start turning into something meaningful for you.
 
-![[Emotional-Cycle-of-Change.png]]
 
-| Stage                   | Description                                                                                                                                                                                          |
-| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Uninformed Optimism** | That's the excitement when you first pick up the Ukulele. You're thrilled and motivated at the idea of learning it. That's blind optimism, you're quite unaware of how complex this journey will be. |
-| **Informed Pessimism**  | That's when you start understanding, the difficulties become apparent and the Optimism fades as you realize how much you suck, leading to doubts and frustration.                                    |
-| **Valley of Despair**   | The lowest point where progress feels slow and playing becomes more challenging. **That's when most people stop playing**                                                                            |
-| **Informed Optimism**   | That's when your head comes out of the water thanks to persistent practice, you start seeing progress but more importantly, you understand how to learn and you start to trust the process           |
-| **Passion**             | The final stage where you feel accomplished and deeply connected to your new Passion. From there it only goes upward.                                                                                |
+This note is about the process of "Developing a Passion" and explores how to develop the right mindset to avoid the many traps and pitfalls on your journey to success
+
+
+# Understand the 5 Stages of developing a Passion
+
+![[/images/Emotional-Cycle-of-Change.png]]
+*Inspired from: Kelley and Conner's Emotional Cycle of Change* 
+
+
+| Stage                   | Description                                                                                                           | Explanation                                                                                   |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Uninformed Optimism** | That's the excitement when you first pick up the Ukulele. You're thrilled and motivated at the idea of learning it.   | That's Blind Optimism, you're quite unaware of how complex this journey will be.              |
+| **Informed Pessimism**  | Problems only show up once you've started paying attention, you start facing your first difficulties.                 | The Blind Optimism fades as you realize how much you suck, leading to doubts and frustration. |
+| **Valley of Despair**   | The lowest point where progress feels slow and playing becomes more challenging.                                      | **That's when most people stop playing**                                                      |
+| **Informed Optimism**   | Thanks to persistent practice, you start seeing progress but more importantly.                                        | That's when you start understanding the process and to trust it.                              |
+| **Passion**             | The final stage where you feel accomplished and deeply connected to your new Passion. From there it only goes upward. | Congratulations, you now have a Passion                                                       |
+
 
 If you're curious, [here's how it went for me](/notes/despairtopassion)
 
-### Physical Skills vs Mental Skills
 
-| Physical Skills                                                       | Mental Skills                                                             |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| Dancing your fingers across the fretboard                             | Hearing a melody in your head                                             |
-| Develop a proper posture                                              | Listening and Playing Music at the same time                              |
-| Playing for more than 20 minutes without having your fingers fall off | Understanding why certain notes sound good together                       |
-| Playing without looking at your hands                                 | Creating a story through your improvisation                               |
-| Develop fine muscle control for chord shapes & fingerpicking          | 📝Understanding the complex relationship between left hand and right hand |
-| Acting Music Theory                                                   | Understanding Music Theory                                                |
-| Being able to produce the sound you imagine                           | Visualizing chord shapes on the fretboard                                 |
-
-
+--- 
+### Related:
+- 📝[How to Break Through a Plateau](plateau)
+- 📝 [Physical Skills vs Mental Skills](/notes/physical-vs-mental)

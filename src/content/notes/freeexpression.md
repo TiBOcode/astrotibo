@@ -1,6 +1,13 @@
 ---
 title: Music is your tool for Personal Growth
+category: 
+date: 2024-08-13
+status:
+  - "[[🟠]]"
+  - "[[🪴]]"
+description:
 ---
+
 
 
 I wish someone would have explained that to me when I started to play Music. Music isn’t end in itself, or at least it shouldn’t be, **Music a tool for Personal Growth & Discovery and not an end in itself.**

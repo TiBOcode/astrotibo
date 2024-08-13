@@ -1,6 +1,17 @@
 ---
-title: Music
+title: WTF Music
+category:
+  - "[[UkuleleBasics]]"
+date: 2024-08-13
+status:
+  - "[[🌱]]"
+description:
 ---
+
+
+
+
+
 
 Music is fascinating
 
@@ -32,3 +43,6 @@ Understanding what music is requires approaching it in many different context:
 Other stuff I don't know how to categorize yet;
 - Practical use of Music
 - Music in the animal kingdom (navigating and understanding the world through sound)
+
+---
+### Related:

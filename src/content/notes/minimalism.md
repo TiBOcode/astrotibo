@@ -1,6 +1,15 @@
 ---
 title: Simplicity & Accessibility FIRST
+category: 
+date: 2024-08-13
+status:
+  - "[[🌱]]"
+description:
 ---
+
+
+
+
 
 When people start practicing and creating their first improvisation loop, they often express a specific doubt, thinking, "Shouldn't it be harder to make something that sounds nice?". There's a widespread social bias that difficulty implies beauty, especially in music. This mindset leads many to underappreciate the beauty of simplicity and dismiss easily accessible music as less valuable.
 
@@ -31,7 +40,11 @@ There is a big social bias which makes us think that the harder the better...wai
 The same reason people would undervalue something that everyone else can do, it's not because most people can play what you're enjoying that it reduces its value whatsoever
 
 
-Related Notes:
+
+
+
+---
+### Related:
 
 Best for Learning
 Best for Playing 

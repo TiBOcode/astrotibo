@@ -1,7 +1,10 @@
 ---
-title: Hey there!  Welcome to the Notes 
+title: Hey there!  Welcome to the Notes
+category: 
+date: 2024-08-13
+status: 
+description:
 ---
-
  You're at the gates of a maze where Music, Life, and everything in between collide in the most beautiful way. This is where we break the rules, embrace creativity, and learn.
 
 ### Before you step in, here's the deal:
