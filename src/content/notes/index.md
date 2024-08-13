@@ -13,15 +13,16 @@ description:
 2. This isn't your average website. It's a non-linear website designed to make learning feel like play.
 3. Is it a Maze... or is it a Guide? Well, it's a Maze that has your Curiosity be the Guide! There's "no right or wrong" here 
 
+ 
 If you want to learn more, click here to [explore why non linear website makes learning more efficient](/notes/nonlinear). One Simple Rule: Just let your curiosity and interest guide you from clicks to clicks until you find your way back home. 
 
 - - -
 
-# Start the learning Journey 
+# The Journey Starts Here 
 [100% of the content can be found following this link](/notes/guide). <br>That's the path you will follow whenever you want to start fresh with a different route.
 
 What you're going to find at the current moment:
-- Notes about Ukulele Improvisation, the philosophy, the why's and how's
+- Secrets about Ukulele Improvisation, the philosophy, the why's and how's
 - Notes about Personal Growth, Self Discovery and Self Expression
 
 
@@ -31,9 +32,11 @@ Everything's free because sharing knowledge feels more important to me than mone
 
 - - -
 
-
-*Attention:  I write like a maniac, so this place is always evolving. <br>
-Current note count: 24 and growing! <br> Last update: Fresh out of the oven (aka Today)* <br>
-Number of people who returned here after getting lost: 239
-
+```
+*🚧Attention:  The place you're exploring is under construction*. <br>
+*Some paths are 📝UNWRITTEN but don't worry, the author writes like a maniac <br>*
+*Current note count: 24 and growing! <br>* 
+*Last update: Fresh out of the oven (aka Today)* <br>
+*Number of people who returned here after getting lost: 243*
+```
 
