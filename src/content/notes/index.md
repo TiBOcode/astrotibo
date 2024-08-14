@@ -20,9 +20,9 @@ If you want to learn more, click here to [explore why non linear website makes l
 <div style="text-align: center;"> <a href="/notes/guide" style="background-color: orange; color: white; padding: 15px 25px; text-align: center; text-decoration: none; display: inline-block; font-size: 20px; margin: 20px auto; cursor: pointer; border-radius: 15px; transition: background-color 0.3s;"> <strong>→ Enter & Access the Content</strong> </a> </div>
 That's the path you will follow whenever you want to start fresh with a different route. What you're going to find at the current moment:
 
-- ### 🎵 Secrets of Ukulele Improvisation: Philosophy, Whys, and Hows
+- ### Secrets of Ukulele Improvisation: Philosophy, Whys, and Hows
     
-- ### 🌱 Insights on Personal Growth, Self-Discovery, and Self-Expression
+- ### Insights on Personal Growth, Self-Discovery, and Self-Expression
 
 ---
 # Support this one man Project
