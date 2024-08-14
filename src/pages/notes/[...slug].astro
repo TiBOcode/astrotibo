@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import NoteFooter from '../../components/NoteFooter.astro';
 import { fade } from 'astro:transitions';
-import LinkPreview from '../../components/LinkPreview.astro';
+
 
 export async function getStaticPaths() {
   const notes = await getCollection('notes');
@@ -34,7 +34,7 @@ const formattedDate = note.data.date
       <Content />
     </div>
   </article>
-  <LinkPreview />
+
   <NoteFooter />
 </Layout>
 
@@ -47,6 +47,8 @@ const formattedDate = note.data.date
 </style>
 
 <style is:global>
+
+
   /* Base styles for all links */
   .prose a {
     @apply text-orange-500 no-underline relative;

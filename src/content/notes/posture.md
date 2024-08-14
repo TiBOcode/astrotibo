@@ -1,10 +1,16 @@
 ---
 title: Another Underrated advice
+category:
+  - "[[Ukulele]]"
+date: 2024-08-14
+status:
+  - "[[📝]]"
+  - "[[🌱]]"
+description:
 ---
 Paying attention to one's posture is an advice I heard from many talented musicians and it never really resonated in me before a long while, I now consider, a key element of any practice. 
 
 Let's explain:
-
 
 
 # It's not about how good you look, it's about how good you feel
@@ -31,8 +37,6 @@ After a few months is when it becomes interesting, by that time you should have 
 You now should be able to enter a flow while playing a simple loop. Play slow, then start the body scan and relax. Feel -> Relax, Feel -> Relax.  Try different postures, 
 
 # Play lazy
-
-
 
 The difficult part is feeling "everything together", when you're a beginner you can't expect to add complexity to to the overwhelming amount of novel sensations you already feel when playing music.   
 

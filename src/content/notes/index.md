@@ -33,11 +33,13 @@ Everything's free because sharing knowledge feels more important to me than mone
 
 - - -
 
-```
+
+
 *🚧Attention:  The place you're exploring is under construction*. <br>
 *Some paths are 📝UNWRITTEN but don't worry, the author writes like a maniac <br>*
 *Current note count: 24 and growing! <br>* 
 *Last update: Fresh out of the oven (aka Today)* <br>
 *Number of people who returned here after getting lost: 243*
-```
+
+
 

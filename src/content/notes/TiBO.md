@@ -13,6 +13,7 @@ description:
 About 4/5 years ago, I left a promising career to start a cross country journey by bike which never really ended. The impact it had on my life is immense. Among many things I picked upon the road, there was the Ukulele.
 
 
+
 ## Who am I?
 When talking about one's self, I like to talk about values. A value is the compass that guide one's actions after all, much like a North Star. 
 

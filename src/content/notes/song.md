@@ -2,8 +2,10 @@
 title: Why am I not teaching songs?
 category:
   - "[[Ukulele]]"
-date: 2024-08-13
-status: 
+date: 2024-08-04
+status:
+  - "[[📝]]"
+  - "[[🌱]]"
 description:
 ---
 

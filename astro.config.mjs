@@ -2,6 +2,9 @@ import { defineConfig } from 'astro/config';
 import tailwind from "@astrojs/tailwind";
 import vue from '@astrojs/vue';
 import rehypeExternalLinks from 'rehype-external-links';
+import rehypeRaw from 'rehype-raw';
+
+
 
 export default defineConfig({
   output: 'static',
@@ -21,6 +24,7 @@ export default defineConfig({
 
   markdown: {
     extendDefaultPlugins: true,
+    
     rehypePlugins: [
       [rehypeExternalLinks, {
         target: '_blank',

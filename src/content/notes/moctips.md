@@ -15,19 +15,19 @@ This place is a waypoint to all my tips, it's a long process that requires lots 
 
 [guidepleasure](/notes/guidepleasure)
 # Other Even More Unorganized Tips (EMUT)
-- [Listen to the sound](/notes/listen) 
+- [Listen to the Music you Create](/notes/listen) 
 - [How important is your posture really?](/notes/posture)
 - [Sometimes, listen to the silence](/notes/listen-to-the-silence)
-- [hear-the-music-or-not](/notes/hear-the-music-or-not)
+- 📝[hear-the-music-or-not](/notes/hear-the-music-or-not)
 - Play with 4 fingers
-- [Sing what you play](sing-what-you-play) 
+- [Sing what you play](/notes/sing-what-you-hear) 
 - Play Slower
 - Feel the Narrative (tension and release)
 - Learning to Learn is the most important skill 
 - Play Blindfolded (without looking at your hands)
 - Simplify Repeat Learn Repeat 
 - Have a Routine
-- [The rhythm of Attention in Music](attention-in-music.md)
+- 📝[The rhythm of Attention in Music](/notes/attention-in-music)
 Ukulele World:
 - [Everything about Picks on Ukulele](/notes/pick)
 

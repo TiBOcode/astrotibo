@@ -1,5 +1,5 @@
 ---
-title: This is the Ukulele Improvisation Hub
+title: This is the Ukulele Improvisation Guide
 category:
   - "[[Ukulele]]"
 date: 2024-08-13
