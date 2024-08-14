@@ -1,5 +1,5 @@
 ---
-title: "Better Writing: Reflections on the perception of \"You\" and \"I\" from the reader's perspective"
+title: "Better Writing: Reflections on the perception of \"You\" and \"I\" from the Reader's Perspective"
 category:
   - "[[StoryTelling&BetterWriting]]"
 date: 2024-08-14
@@ -8,7 +8,7 @@ status:
   - "[[🟠]]"
 description:
 ---
-Today as I was writing, I had a very deep insight about **how readers process pronouns, particularly "I" and "You"**. It's fresh so I'm mind bending late at night to articulate it better because the implications are many for improving one's writing.
+Today I had, while writing, a very deep insight about **how readers process pronouns, particularly "I" and "You"**. It's fresh so I'm mind bending late at night to articulate it better because the implications are many for improving one's writing.
 
 ---
 
