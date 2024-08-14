@@ -1,10 +1,10 @@
 ---
-title: Exploding my Website
+title: Exploding my Website for fun
 category: 
 date: 2024-08-13
 status:
   - "[[🪴]]"
-description:
+description: Trying all sort of things
 ---
 
 :::info

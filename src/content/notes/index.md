@@ -14,18 +14,15 @@ description:
 3. Is it a Maze... or is it a Guide? Well, it's a Maze that has your Curiosity be the Guide! There's "no right or wrong" here 
 
  
-If you want to learn more, click here to [explore why non linear website makes learning more efficient](/notes/nonlinear). One Simple Rule: Just let your curiosity and interest guide you from clicks to clicks until you find your way back home. 
-
+If you want to learn more, click here to [explore why non linear website makes learning more efficient](/notes/nonlinear). **One Simple Rule: Just let your curiosity and interest guide you from clicks to clicks until you find your way back home.** 
 - - -
+# The Journey Starts Here
+<div style="text-align: center;"> <a href="/notes/guide" style="background-color: orange; color: white; padding: 15px 25px; text-align: center; text-decoration: none; display: inline-block; font-size: 20px; margin: 20px auto; cursor: pointer; border-radius: 15px; transition: background-color 0.3s;"> <strong>→ Enter & Access the Content</strong> </a> </div>
+That's the path you will follow whenever you want to start fresh with a different route. What you're going to find at the current moment:
 
-# The Journey Starts Here 
-[100% of the content can be found following this link](/notes/guide). <br>That's the path you will follow whenever you want to start fresh with a different route.
-
-What you're going to find at the current moment:
-- Secrets about Ukulele Improvisation, the philosophy, the why's and how's
-- Notes about Personal Growth, Self Discovery and Self Expression
-
-
+- ### 🎵 Secrets of Ukulele Improvisation: Philosophy, Whys, and Hows
+    
+- ### 🌱 Insights on Personal Growth, Self-Discovery, and Self-Expression
 
 ---
 # Support this one man Project
@@ -34,6 +31,7 @@ Everything's free because sharing knowledge feels more important to me than mone
 - - -
 
 
+```
 
 *🚧Attention:  The place you're exploring is under construction*. <br>
 *Some paths are 📝UNWRITTEN but don't worry, the author writes like a maniac <br>*
@@ -41,5 +39,6 @@ Everything's free because sharing knowledge feels more important to me than mone
 *Last update: Fresh out of the oven (aka Today)* <br>
 *Number of people who returned here after getting lost: 243*
 
+```
 
 
