@@ -4,8 +4,8 @@ category:
   - "[[Ukulele]]"
 date: 2024-08-13
 status:
-  - "[[📝]]"
-description:
+  - "[[📝 Captured]]"
+description: 
 ---
 There's a famous Canadian pianist who was known for a very peculiar habit. He was known to "hum" or "sing" what he was playing on the piano to a degree that was pathological. His name was Glenn Gould.
 I remember the first time I heard about him I thought "What a strange guy". Then time passed and when I picked up music myself, I started experimenting with this idea until I realized the real power of singing what you play.

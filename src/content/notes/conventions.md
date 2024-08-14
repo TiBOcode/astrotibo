@@ -3,8 +3,8 @@ title: Breaking Away from Conventions
 category: 
 date: 2024-08-13
 status:
-  - "[[🪴]]"
-description:
+  - "[[🪴 Inklings]]"
+description: 
 ---
 
 First of all you play the Ukulele and on top of that you're playing weird?

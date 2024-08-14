@@ -4,11 +4,11 @@ category:
   - "[[Ukulele]]"
 date: 2024-08-13
 status:
-  - "[[🌱]]"
-  - "[[🔴]]"
-  - "[[🟠]]"
-  - "[[🟢]]"
-description:
+  - "[[🌱 Seedlings]]"
+  - "[[🚧 Urgent]]"
+  - "[[🟠 Later Review]]"
+  - "[[🟢 Stable]]"
+description: 
 ---
 
 

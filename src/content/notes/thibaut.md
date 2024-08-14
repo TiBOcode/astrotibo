@@ -4,8 +4,8 @@ category:
   - "[[Personnal]]"
 date: 2024-08-02
 status:
-  - "[[🪴]]"
-description:
+  - "[[🪴 Inklings]]"
+description: 
 ---
 
 The French language has a deep passion for **silent letters**. Somehow Thibaut=Tibo... **it is pronounced the exact same way**. 

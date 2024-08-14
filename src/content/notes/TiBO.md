@@ -4,8 +4,8 @@ category:
   - "[[Personnal]]"
 date: 2024-08-01
 status:
-  - "[[🪴]]"
-description:
+  - "[[🪴 Inklings]]"
+description: 
 ---
 [My name is Thibaut Gabriel](/notes/thibaut) but you can call me Tibo, I'm a 28years old French guy who's trying to build a life for himself. Like everyone, I guess. 
 

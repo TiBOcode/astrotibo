@@ -4,9 +4,8 @@ category:
   - "[[StoryTelling&BetterWriting]]"
 date: 2024-08-14
 status:
-  - "[[🪴]]"
-  - "[[🟠]]"
-description:
+  - "[[🪴 Inklings]]"
+description: 
 ---
 Today I had, while writing, a very deep insight about **how readers process pronouns, particularly "I" and "You"**. It's fresh so I'm mind bending late at night to articulate it better because the implications are many for improving one's writing.
 

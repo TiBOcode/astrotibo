@@ -3,7 +3,7 @@ title: Exploding my Website for fun
 category: 
 date: 2024-08-13
 status:
-  - "[[🪴]]"
+  - "[[🪴 Inklings]]"
 description: Trying all sort of things
 ---
 
@@ -11,7 +11,7 @@ description: Trying all sort of things
 Test
 :::
 
-
+İpad to Obsidian to VS studio to git to Netlify to the whole world
 
 More exciting stuff
 ::warning
@@ -25,3 +25,6 @@ fds
 '
 
 TEST 32
+
+
+Is it synchronizing yes yes yes

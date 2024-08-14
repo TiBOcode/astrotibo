@@ -18,5 +18,5 @@ I would sometimes start whispering and raise the volume progressively, I might d
 
 
 Related:
-- How to scream using Music
-- Being able to Self Express is "FUOIDCKING IMPORTANT"
+- 📝[You can Scream with your voice but you can also scream with your Ukulele](how-to-scream-with-a-ukulele.md)
+- 📝[Self Expression is one of the pillar of Mental Health](selfexpression.md)

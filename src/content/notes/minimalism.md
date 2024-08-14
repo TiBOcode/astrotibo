@@ -3,8 +3,8 @@ title: Simplicity & Accessibility FIRST
 category: 
 date: 2024-08-13
 status:
-  - "[[🌱]]"
-description:
+  - "[[🌱 Seedlings]]"
+description: 
 ---
 
 

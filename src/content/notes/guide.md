@@ -4,15 +4,15 @@ category:
   - "[[Ukulele]]"
 date: 2024-08-13
 status:
-  - "[[🌲]]"
-  - "[[🟠]]"
-description:
+  - "[[🌲 Evernote]]"
+  - "[[🟠 Later Review]]"
+description: 
 ---
 # Choose your path wisely
 
 Think of this as **a Guide to Unlocking Your Creative Potential.** "Creativity" isn't a magical gift, it's a skill that can be Learned & Practiced. The Ukulele is the perfect gateway to step into this world of Self Expression and Self Discovery; but don't worry, you're not alone and you don't have to create everything from scratch. Great musicians take what's already there and use their own unique path to combine this existing knowledge, chords and rhythms in a way that feels Unique to Yourself.
 
- ## Your task is to follow the path that resonates with your own voice.
+ ## Simply follow the path that resonates with your own voice.
 
 Through these notes, you'll learn about a unique way of playing revolving around Simplicity and Free Expression, breaking away from the widespread idea that learning music has to be an infinite grind until you eventually become one with the instrument. Not only can you Succeed in your Musical Journey but this approach is intentionally crafted to ensure your experience is both rewarding and fun.
 
@@ -37,11 +37,11 @@ You will be equipped with a 📝[RoadMap](/notes/roadmap) to find your way from 
 ---
 # Other Stuff you might need (or not)
 - I'll list my Youtube Videos here too, idk how yet
-[Video listing](/notes/Videos)
+📝[Video listing](/notes/Videos)
 
 - And somehow I can even add some few seconds of Ukulele Music for you to enjoy
 
 <audio src="/audio/UkuleleTest.mp3" controls></audio>
 
 - Here's an unrelated note about [the Leap of Faith in Decision Making](/notes/leap-of-faith)
-
+- 

@@ -3,13 +3,10 @@ title: Music is your tool for Personal Growth
 category: 
 date: 2024-08-13
 status:
-  - "[[🟠]]"
-  - "[[🪴]]"
-description:
+  - "[[🟠 Later Review]]"
+  - "[[🪴 Inklings]]"
+description: 
 ---
-
-
-
 I wish someone would have explained that to me when I started to play Music. Music isn’t end in itself, or at least it shouldn’t be, **Music a tool for Personal Growth & Discovery and not an end in itself.**
 
 It means that Music stands along other Self Expression Practices like all kinds of Art: Drawing, Writing, Singing, Dancing, [Screaming](/notes/screaming)... anything that involves YOU EXPRESSING YOURSELF. It's a mean of communication and one that shouldn't be undermined,  
@@ -18,7 +15,6 @@ It means that Music stands along other Self Expression Practices like all kinds 
 
 People approach music-making for various reasons. Here are three common perspectives:
 
-  
 | Approach       | Goal                              | Focus                                              | Mindset                                                                                                                                         |
 | -------------- | --------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | Musician       | Financial success and recognition | Technical proficiency and marketability            | "I want to make a living out of playing  music, so my goal is to play better music that appeals to a wide audience."                            |

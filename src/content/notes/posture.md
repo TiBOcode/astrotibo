@@ -4,9 +4,9 @@ category:
   - "[[Ukulele]]"
 date: 2024-08-14
 status:
-  - "[[📝]]"
-  - "[[🌱]]"
-description:
+  - "[[📝 Captured]]"
+  - "[[🌱 Seedlings]]"
+description: 
 ---
 Paying attention to one's posture is an advice I heard from many talented musicians and it never really resonated in me before a long while, I now consider, a key element of any practice. 
 

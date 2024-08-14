@@ -4,8 +4,8 @@ category:
   - "[[UkuleleBasics]]"
 date: 2024-08-13
 status:
-  - "[[🌱]]"
-description:
+  - "[[🌱 Seedlings]]"
+description: 
 ---
 
 

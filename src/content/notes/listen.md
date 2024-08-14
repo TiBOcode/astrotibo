@@ -4,9 +4,9 @@ category:
   - "[[Mindfulness]]"
 date: 2024-08-13
 status:
-  - "[[🪴]]"
-  - "[[🔴]]"
-description:
+  - "[[🪴 Inklings]]"
+  - "[[🚧 Urgent]]"
+description: 
 ---
 *This note is part of a much broader series about Engaging all the Senses.*
 ```

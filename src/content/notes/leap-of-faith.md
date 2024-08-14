@@ -4,7 +4,7 @@ category:
   - "[[Others]]"
 date: 2024-07-30
 status:
-  - "[[🪴]]"
+  - "[[🪴 Inklings]]"
 description: This is a Personal Note I wrote about the importance of taking bold decisions to get your life rolling. It was particularly meaningful to me as I was starting to create content.
 ---
 

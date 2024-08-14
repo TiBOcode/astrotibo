@@ -4,9 +4,9 @@ category:
   - "[[Ukulele]]"
 date: 2024-08-03
 status:
-  - "[[🪴]]"
-  - "[[🟠]]"
-description:
+  - "[[🪴 Inklings]]"
+  - "[[🟠 Later Review]]"
+description: 
 ---
 
 

@@ -5,8 +5,8 @@ category:
   - "[[Wiki]]"
 date: 2024-08-12
 status:
-  - "[[🪴]]"
-description:
+  - "[[🪴 Inklings]]"
+description: 
 ---
 "Imagine for a moment, the countless influences that have shaped who you are now, from the first book you read as a child to a random conversation with a stranger. This is what Experiential Development seeks to explore." It's a term which gained popularity in **the evergreen Nurture vs Culture debate**. It's a more relaxed approach acknowledging how multi faceted human development is. 
 
