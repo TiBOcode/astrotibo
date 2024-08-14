@@ -11,7 +11,7 @@ description: Trying all sort of things
 Test
 :::
 
-
+İpad to Obsidian to VS studio to git to Netlify to the whole world
 
 More exciting stuff
 ::warning
@@ -25,3 +25,6 @@ fds
 '
 
 TEST 32
+
+
+Is it synchronizing yes yes yes
