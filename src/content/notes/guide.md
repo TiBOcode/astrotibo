@@ -22,23 +22,23 @@ Feelings: This part's a bit too long, I write about too much it's not concise an
 
 # Start Learning & Practice Now
 
-This is the writing factory, with the tips I'm currently writing about, it serves as a checkpoint for all the advanced concepts I want to share about music & life. <br>
+This is the Tips factory where everything will branch out from. It's the open door to my ideas about developing one's skills with Music, note by note. will serve as a checkpoint for all the advanced concepts I want to share about music & life. <br>
 [Maze of knowledge](/notes/moctips)
 
 
-A list of Ukulele Techniques I'll detail. More tangible elements of Ukulele playing
+This is a listing of Ukulele Techniques I'll detail. These are more tangible elements of Ukulele playing that I'm going to use in my videos once I'll have a solid library.<br>
 [Ukulele Techniques](/notes/UkuleleTechniques)
 
-Here there will be a more structured learning path for both beginner and more advanced players to 📝[Develop their skills](/notes/foundation)
+Here I'll design a more structured learning path for both beginner and more advanced players to 📝[Develop their skills](/notes/foundation)
 
-# The Roadmap  
+### The Roadmap  
 
-You will be equipped with a 📝[RoadMap](/notes/roadmap) to find your way, but only when I'll have it written. Stay tuned! 
+You will be equipped with a 📝[RoadMap](/notes/roadmap) to find your way, but only when I'll have it designed and written, for now it's up to you to explore. Stay tuned! 
 
 ---
 # Other Stuff you might need (or not)
-- I'll list my videos here too, idk how yet
-[Video listing](Videos.md)
+- I'll list my Youtube Videos here too, idk how yet
+[Video listing](/notes/Videos)
 
 - And somehow I can even add some few seconds of Ukulele Music for you to enjoy
 
