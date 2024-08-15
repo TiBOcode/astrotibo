@@ -7,11 +7,14 @@ status:
 description: Trying all sort of things
 ---
 
+You're not supposed to read this
+
 :::info
-Test
+Test 
 :::
 
-İpad to Obsidian to VS studio to git to Netlify to the whole world
+My Thoughts > My Fingers > the iPad's Keyboard > Obsidian > VS Studio > Github > Netlify > the whole world
+It's Working!!
 
 More exciting stuff
 ::warning
@@ -20,11 +23,12 @@ Explosion
 
 
 '''ff
-
+```
 fds
 '
 
-TEST 32
+TEST #491: Still crashing
+
 
 
 Is it synchronizing yes yes yes

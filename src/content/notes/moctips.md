@@ -9,11 +9,11 @@ description: This place is a waypoint to all my tips and this is where most of t
 ---
 # Ukulele Unorganized Principles (UUP for short)
 
-1. ["Use Music as a tool for Self Discovery" ](/notes/freeexpression)
+1. [Use Music as a tool for Self Discovery](/notes/freeexpression)
 
-2. ["Breaking Conventions" ](/notes/conventions)
+2. [Breaking Conventions](/notes/conventions)
 
-3. ["Minimalism over Complexity in Music"](/notes/minimalism)
+3. [Minimalism over Complexity in Music](/notes/minimalism)
 
 4. [Learn a little everyday](/notes/guide-learning)
 
