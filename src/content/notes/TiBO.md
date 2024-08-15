@@ -25,7 +25,6 @@ When talking about one's self, I like to talk about values. A value is the compa
 ### A Venn diagram I love about finding meaning
 ![Skills Passions and Money](/images/img-SkillsPassionsMoney.png)
 
-
 ---
 ### Related:
 - 📝[My routine for Physical and Mental Health](/notes/routine)

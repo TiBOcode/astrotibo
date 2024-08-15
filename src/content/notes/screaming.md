@@ -1,11 +1,17 @@
 ---
-title: Screaming is Raw Authenticity 
+title: Why Screaming can Be Beneficial for You
+category:
+  - "[[Mindfulness]]"
+  - "[[Others]]"
+date: 2024-08-15
+status:
+  - "[[📝 Captured]]"
+description:
 ---
-
-How important is it to express yourself authentically?  How important is it to let go and express those overwhelming feeling, even if it's done through the most primitive way you can? 
+During my years traveling. Wild camping in mountains, deserts, forests...alone with my thoughts without a way to distract myself away from what needs care and attention. Screaming in Catharsis is something that not only I learned to do, but also embraced with much interest. It is one of the many tools for Self Expression.
 
 # Express yourself 
-That's what I felt the need to and experienced during my years traveling. Wild camping in mountains, deserts, forests...alone with my thoughts without a way to distract myself away from what needs care and attention. Screaming is Catharsis through Sound and I embraced that. 
+How important is it to express yourself authentically?  How important is it to let go and express those overwhelming feeling, even if it's done through the most primitive way you can? 
 
 ### Embracing Taboo
 Screaming isn't something I do routinely but I've done it many times and still do fairly often. I believe many do too, hiding from others, screaming in the car, in the shower... many people do it on other people to solve their own internal issues... It is such a taboo behavior but how much it helps you feel better is beyond words. 

@@ -18,6 +18,3 @@ When my mom was choosing my name, the name was most commonly spelled "Thibau**l*
 
 It seems thdat everyone speaking French natively has an advanced form of Inattentional Blindness related to these silent letters. 
 
-
----
-### Related:

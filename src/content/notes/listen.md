@@ -1,5 +1,5 @@
 ---
-title: Sensory integration in Skill Mastery
+title: Engaging the Senses is the way to Mastery
 category:
   - "[[Mindfulness]]"
 date: 2024-08-13
@@ -42,13 +42,13 @@ Can you feel how the sound makes you feel like while at the same time imagine wh
 # The more you spend time hearing the sound, the better you'll become
 This is the kind of title that makes half of the people think "Of course that's so obvious!" and the other half "Wtf is that and why should I care?"
 
-During my time adventuring the world by bike is when I also picked up Music, at that time when I first started, [my musical skills were terrible](/notes/) 
+During my time adventuring the world by bike is when I also picked up Music, at that time when I first started, [📝my musical skills were terrible](/📝my musical skills were terrible) 
 
 
 # Practical implications
 - The same way you do a body scan, you want to regularly bring your attention to all your senses
 - Targeting genuine blind spots while avoiding illusory competence
-- **Learn about your senses**
+- [📝**Learn More about your senses by Studying them**]
 
 
 ---

@@ -1,11 +1,11 @@
 ---
-title: "Better Writing: Reflections on the perception of \"You\" and \"I\" from the Reader's Perspective"
+title: Reflections about "You" and "I" from the Reader's Perspective
 category:
   - "[[StoryTelling&BetterWriting]]"
 date: 2024-08-14
 status:
   - "[[🪴 Inklings]]"
-description: 
+description: This is the kind of nerdy insights I write about in my personal Daily Notes. I thought I'd start writing them here.
 ---
 Today I had, while writing, a very deep insight about **how readers process pronouns, particularly "I" and "You"**. It's fresh so I'm mind bending late at night to articulate it better because the implications are many for improving one's writing.
 
