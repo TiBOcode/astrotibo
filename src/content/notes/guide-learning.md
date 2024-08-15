@@ -1,5 +1,5 @@
 ---
-title: The 5 Stages to Develop a Passion
+title: The 5 Stages behind Developing a Passion
 category:
   - "[[Personnal]]"
   - "[[Ukulele]]"
@@ -7,10 +7,8 @@ date: 2024-08-13
 status:
   - "[[🪴 Inklings]]"
   - "[[🚧 Urgent]]"
-description: 
+description:
 ---
-
-
 The most difficult part about learning Music -or anything else- is the process itself. It's sticking to your ambitions for long enough so that they start turning into something meaningful for you.
 
 
@@ -32,7 +30,7 @@ This note is about the process of "Developing a Passion" and explores how to dev
 | **Passion**             | The final stage where you feel accomplished and deeply connected to your new Passion. From there it only goes upward. | Congratulations, you now have a Passion                                                       |
 
 
-If you're curious, [here's how it went for me](/notes/despairtopassion)
+If you're curious, 📝[here's how it went for me](/notes/despairtopassion)
 
 
 --- 

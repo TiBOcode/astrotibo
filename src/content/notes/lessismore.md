@@ -6,7 +6,7 @@ category:
 date: 2024-08-13
 status:
   - "[[🌱 Seedlings]]"
-description: 
+description: Trying to embed videos for later use (it worked!)
 ---
 
 ---

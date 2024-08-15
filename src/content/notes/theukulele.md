@@ -6,14 +6,8 @@ date: 2024-08-03
 status:
   - "[[🪴 Inklings]]"
   - "[[🟠 Later Review]]"
-description: 
+description: "Note: I'll write more on that with time."
 ---
-
-
-
-
-
-
 The Ukulele gained a lot in popularity since the last years and there are many reasons for that, some are Obvious, some are not. 
 # Limited Range, Small Size, Simplicity
 
@@ -41,7 +35,7 @@ Throughout this website you'll find resources to learn about the many ways to ta
 Finally, this is where it shines. This is what I'm using it for almost daily and where you might want to give it a second look. Music isn't just about having fun, it's mostly about Self Expression & Introspection. It's a mean of communication that needs to be taken very seriously. 
 Ukulele's simplicity allows for creative improvisation. Creative Expression allows for deep connections with one's self. Being able to resonate with your own music in very simple ways is a gateway to understanding yourself better and managing your own emotional state.
 
-Note: I'll write more on that with time.
+
 
 
 

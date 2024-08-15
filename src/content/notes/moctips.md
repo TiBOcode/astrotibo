@@ -1,9 +1,13 @@
 ---
-title: All my Ukulele Tips
+title: Welcome to the Reading Ground
+category:
+  - "[[Ukulele]]"
+date: 2024-08-15
+status:
+  - "[[🪴 Inklings]]"
+description: This place is a waypoint to all my tips and this is where most of the writing is happening, it's a long process that requires lots of thinking, editing, reviewing & publishing. It'll keep evolving over time.
 ---
-This place is a waypoint to all my tips, it's a long process that requires lots of writing, editing, reviewing & publishing. It'll keep evolving over time
-
-# The Ukulele Unorganized Principles (UUP for short)
+# Ukulele Unorganized Principles (UUP for short)
 
 1. ["Use Music as a tool for Self Discovery" ](/notes/freeexpression)
 
@@ -13,8 +17,9 @@ This place is a waypoint to all my tips, it's a long process that requires lots 
 
 4. [Learn a little everyday](/notes/guide-learning)
 
-[guidepleasure](/notes/guidepleasure)
-# Other Even More Unorganized Tips (EMUT)
+5. [Do You Play Music for Yourself or for Others?](/notes/guide-internal-vs-external)
+# Even More Unorganized Tips (EMUT)
+
 - [Listen to the Music you Create](/notes/listen) 
 - [How important is your posture really?](/notes/posture)
 - [Sometimes, listen to the silence](/notes/listen-to-the-silence)
@@ -28,6 +33,8 @@ This place is a waypoint to all my tips, it's a long process that requires lots 
 - Simplify Repeat Learn Repeat 
 - Have a Routine
 - 📝[The rhythm of Attention in Music](/notes/attention-in-music)
+
+
 Ukulele World:
 - [Everything about Picks on Ukulele](/notes/pick)
 
@@ -35,11 +42,12 @@ Ukulele World:
 The Basics
 - Eat well & Drink water
 - Sleep well
-- Move you body 
+- Move your body 
 
 
 
-Body
+Meditation, Body & Music
 - Feldenkrais
 - Alexander's technique
 - Mindfulness
+- Mental Imagery 

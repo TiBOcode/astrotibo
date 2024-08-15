@@ -7,12 +7,6 @@ status:
   - "[[🌱 Seedlings]]"
 description: 
 ---
-
-
-
-
-
-
 Music is fascinating
 
 
@@ -20,7 +14,32 @@ Music is fascinating
 
 
 
+
 I don't even know where to start. This will take me ages to write. Come back in a few years
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -39,6 +58,9 @@ Understanding what music is requires approaching it in many different context:
 	- Music as a Language
 	- Bayesian Brain
 	- Predictive Brain
+	- Synesthesia
+- Culture
+	- Music across cultures
 
 Other stuff I don't know how to categorize yet;
 - Practical use of Music
@@ -46,3 +68,4 @@ Other stuff I don't know how to categorize yet;
 
 ---
 ### Related:
+- Everything

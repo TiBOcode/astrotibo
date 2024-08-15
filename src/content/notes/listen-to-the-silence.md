@@ -1,11 +1,13 @@
 ---
 title: Listen to the Silence
-status: 
-category: "[[Stories]]"
+category:
+  - "[[Stories]]"
+  - "[[Ukulele]]"
 date: 2024-08-12
+status:
+  - "[[🪴 Inklings]]"
+description:
 ---
-
-
 As you create music, moments of silence are as important as the notes of the music themselves. Back in November 2021 when I decided to "turn back and head home", I was in Armenia with my bicycle. Long story short I passed Istanbul on my way and met a very talented pianist. Apart from making me understand how bad my music skills were at the time, she taught me some invaluable lessons. One of them was held in a frame standing above her piano and read the fantastic:
 # "Sessizliği bazen de dinle"
 In English, it translates as: "Sometimes, also listen to the silence". More literally, silence here is meant as "the silenceness"... the Turkish sentence stayed with me for a long while, I even drew it on the back of my old crappy Ukulele.

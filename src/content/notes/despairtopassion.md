@@ -1,13 +1,16 @@
 ---
 title: My Journey from Despair to Passion
-category: 
+category:
+  - "[[Personnal]]"
+  - "[[Ukulele]]"
 date: 2024-08-11
 status:
   - "[[🌱 Seedlings]]"
-description: 
+  - "[[🚧 Urgent]]"
+description:
 ---
 
-I'll write my own journey from despair to Passion here. I'm just not sure about the format so I'll leave it a few days before writing
+I'll write my own journey from despair to Passion using this 5 step framework here. I'm just not sure about the format so I'll leave it a few days before writing
 
 | Stage                   | Description |
 | ----------------------- | ----------- |

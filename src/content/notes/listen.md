@@ -6,18 +6,20 @@ date: 2024-08-13
 status:
   - "[[🪴 Inklings]]"
   - "[[🚧 Urgent]]"
-description: 
+description: This note is going to be part of a much broader series about Engaging all the Senses.
 ---
-*This note is part of a much broader series about Engaging all the Senses.*
-```
-An experienced chef tastes layers of flavor you don't 
-An experienced driver feels its car in ways you don't
-An experienced painter sees subtle color variations you don't  
-An experienced masseur senses muscle tension you don't 
-An experienced musician hears music in ways you don't
-```
 
-Experts do things differently because they learned to feel things differently, they experience the world in ways novices can't imagine. This isn't to tell you that you currently suck, but just to appreciate what learning actually means.
+### Engaging the Senses
+
+| **An experienced chef**     | **Tastes layers of flavor you don't**      |
+| --------------------------- | ------------------------------------------ |
+| **An experienced driver**   | **Feels its car in ways you don't**        |
+| **An experienced painter**  | **Sees subtle color variations you don't** |
+| **An experienced masseur**  | **Senses muscle tension you don't**        |
+| **An experienced musician** | **Hears music in ways you don't**          |
+
+
+Experts do things differently because of years of practice. They learned to feel things differently, they experience the world in ways novices can't imagine. This isn't to tell you that you currently suck, but just to appreciate what learning actually means.
 
 # Learning is Embodied in your Senses
 
