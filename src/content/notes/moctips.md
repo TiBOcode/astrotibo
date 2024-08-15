@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Reading Ground
+title: Welcome to the Readings  
 category:
   - "[[Ukulele]]"
 date: 2024-08-15
