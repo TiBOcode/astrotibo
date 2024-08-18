@@ -8,7 +8,7 @@ import { fade } from 'astro:transitions';
 export async function getStaticPaths() {
   const notes = await getCollection('notes');
   return notes.map(note => ({
-    params: { slug: note.slug.replace(/\.md$/, '') },
+    params: { slug: note.slug },
     props: { note },
   }));
 }

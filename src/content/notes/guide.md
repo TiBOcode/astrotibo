@@ -44,6 +44,6 @@ You will be equipped with a 📝[RoadMap](/notes/roadmap) to find your way from 
 - And somehow I can even add some few seconds of Ukulele Music for you to enjoy
 
 <audio src="/audio/UkuleleTest.mp3" controls></audio>
-
+*Only when it decides to play, sometimes reloading the page fixes the issue* 
 - Here's an unrelated note about [the Leap of Faith in Decision Making](/notes/leap-of-faith)
 - 
