@@ -9,9 +9,9 @@ description: Trying all sort of things
 ---
 You're not supposed to read this
 
-[[astro is gud]]
-[[astro is gud.md]]
-/notes/astroisgud.md
+[[astro playground]]
+[[astro playground]]
+/notes/astroplayground.md
 
 
 :::info

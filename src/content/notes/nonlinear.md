@@ -17,7 +17,7 @@ You are in control of what you want to read. Just follow what grabs your interes
 
 # 2. There's no "right or wrong" Path
 
-Learning is everywhere. Letting go of expectation and trusting the process is what will allow you to learn the most from where you expect it the least. Especially when you're in the [uninformed optimism phase of your learning journey](/notes/guide-learning). 
+Learning is everywhere. Letting go of expectation and trusting the process is what will allow you to learn the most from where you expect it the least. Especially when you're in the uninformed optimism phase of your learning journey, check the [The 5 Stages behind Developing a Passion](/notes/5-stages-to-develop-a-passion) for more information. 
 
 
 ### Where you expect to learn is not where you'll learn the most

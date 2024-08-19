@@ -28,11 +28,6 @@ I'll write more here 📝[Left Hand vs Right Hand](left-hand-right-hand)
 
 # **Mastering the Ukulele: Why You Should Play with Four Fingers**
 
-### Four-Finger Approach:
-Ukulele players often vary in their techniques, using anywhere from one to four fingers to play. [Some even opt for a pick](/notes/pick) (but these guys are strange). However, from my personal experience spending time playing with 2,3 and 4 fingers, the most effective method seems to be using four fingers, one for each string. 
-
-I'll write some more about unlocking the fingers 📝[why and how to work on Finger Dexterity]().
-I'll also link to my journey starting from 2 fingers, having to relearn to 3 fingers and a year later switching to 4 fingers (with a lot of difficulties)
 
 
 

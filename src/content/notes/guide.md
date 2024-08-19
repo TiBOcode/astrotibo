@@ -26,7 +26,7 @@ This is the Tips factory where everything will branch out from. It's the open do
 [→Maze of knowledge](/notes/moctips) 
 
 ### Techniques (Early Access)
-This is a listing of Ukulele Techniques I'll detail. Thezse are more tangible elements of Ukulele playing that I'm also going to use in my videos once I'll have a solid library.<br>
+This is a listing of Ukulele Techniques I'll detail. These are more tangible elements of Ukulele playing that I'm also going to use in my videos once I'll have a solid library.<br>
 [→ Ukulele Techniques](/notes/UkuleleTechniques)
 
 ### The Method (Coming Soon)

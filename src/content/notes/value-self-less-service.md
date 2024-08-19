@@ -1,9 +1,7 @@
 ---
 title: "My Values: Self Less Service"
-category:
-  - "[[Personnal]]"
+category: "[[Personnal]]"
 date: 2024-08-12
-status:
 ---
 
 *"This is something I'm constantly reflecting on, a fundamental value of mine. I'll be there in 20 years, maybe more."*

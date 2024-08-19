@@ -6,15 +6,11 @@ date: 2024-08-03
 status:
   - "[[🪴Inklings]]"
   - "[[🟠Later Review]]"
-description: 
+description: This note is good but quite generic/linear, I'd like to make it more memorable
 ---
 
 
-
-
-
-
-The Ukulele gained a lot in popularity since the last years and there are many reasons for that, some are Obvious, some are not. 
+The Ukulele gained a lot in popularity since the last years and there are many reasons for that, some are obvious, some are not. 
 # Limited Range, Small Size, Simplicity
 
 1. **It's an atmosphere enhancer** 

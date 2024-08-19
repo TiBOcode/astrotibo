@@ -13,10 +13,10 @@ description: This is a special note because it is a temporary one. A note writte
 # Why Ukulele Fingerstyle Improvisation?
 
 
-| **Ukulele →**       | **[Because that's one of the best instruments to improvise on](/notes/theukulele)**     |
-| :------------------ | :-------------------------------------------------------------------------------------- |
-| **Fingerstyle →**   | **Because it's based on Ukulele Instrumental, [Singing is optional](/notes/song)**      |
-| **Improvisation →** | **📝[Because it's the gateway to Musical Freedom and Self-Expression](/improvisation)** |
+|    **Ukulele →**    | **[Because that's one of the best instruments to improvise on](/notes/theukulele)**                    |     |
+| :-----------------: | :----------------------------------------------------------------------------------------------------- | --- |
+|  **Fingerstyle →**  | [Because learning songs may limit you creativity](/notes/Why-Learning-Songs-may-Limit-Your-Creativity) |     |
+| **Improvisation →** | **📝[Because it's the gateway to Musical Freedom and Self-Expression](/notes/improvisation)**          |     |
 
 # How to Teach it? 
 

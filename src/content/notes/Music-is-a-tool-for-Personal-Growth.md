@@ -1,11 +1,11 @@
 ---
-title: Music is your tool for Personal Growth
+title: Music is a tool for Personal Growth
 category: 
 date: 2024-08-13
 status:
   - "[[🟠Later Review]]"
   - "[[🪴Inklings]]"
-description: 
+description:
 ---
 I wish someone would have explained that to me when I started to play Music. Music isn’t end in itself, or at least it shouldn’t be, **Music a tool for Personal Growth & Discovery and not an end in itself.**
 
@@ -18,7 +18,7 @@ People approach music-making for various reasons. Here are three common perspect
 | Approach       | Goal                              | Focus                                              | Mindset                                                                                                                                         |
 | -------------- | --------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | Musician       | Financial success and recognition | Technical proficiency and marketability            | "I want to make a living out of playing  music, so my goal is to play better music that appeals to a wide audience."                            |
-| Social bonging | Bonding and shared experiences    | Playing song popular songs and sharing with others | "I want to use music to bond with friends and meet new people, so my goal is to play music that's fun and engaging in social settings."         |
+| Social Bonding | Bonding and shared experiences    | Playing song popular songs and sharing with others | "I want to use music to bond with friends and meet new people, so my goal is to play music that's fun and engaging in social settings."         |
 | Explorer       | Self-discovery and Expression     | Playing what feels good instead of what is good    | "I want to use music as a tool for self-discovery and growth, my goal is to play in a way that feels authentic and emotionally resonant to me." |
 
   

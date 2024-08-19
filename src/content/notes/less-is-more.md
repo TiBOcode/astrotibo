@@ -1,5 +1,5 @@
 ---
-title: Minimalism over Complexity in Music
+title: Less is More
 category:
   - "[[Ukulele]]"
 date: 2024-08-13
@@ -9,9 +9,9 @@ description: I have much to add here
 ---
 When people start practicing and creating their first improvisation loop, they often express a specific doubt, thinking, "Shouldn't it be harder to make something that sounds nice?". There's a widespread social bias that difficulty implies beauty, especially in music. This mindset leads many to underappreciate the beauty of simplicity and dismiss easily accessible music as less valuable.
 
-# The power of simplicity
+# Minimalism over Complexity in Music
 This whole approach to improvisation is about taking the most out of simplicity.
-Minimalism, however, is about [less is more](/notes/lessismore). When you strip down a composition to its essential elements, every note, strum, or beat carries greater weight and meaning. This approach is especially resonant in instruments like the ukulele
+Minimalism, however, is about Less is More. When you strip down a composition to its essential elements, every note, strum, or beat carries greater weight and meaning. This approach is especially resonant in instruments like the ukulele
 
 **Simplicity isn’t about limiting creativity; it’s about focusing it**. By embracing fewer chords or a simpler rhythm, you allow the true essence of the music to emerge. 
 1. Accessibility: Simple loops allow you to start creating beautiful sounds right away, boosting your confidence and motivation.
@@ -33,6 +33,3 @@ However, this perception couldn't be further from the truth. The beauty of music
 
 Best for Learning
 Best for Playing 
-
-
-[why you should learn how to improvise?.](/notes/improvisation) 

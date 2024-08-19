@@ -1,5 +1,5 @@
 ---
-title: Another Underrated advice
+title: Posture while playing music is extremely
 category:
   - "[[Ukulele]]"
 date: 2024-08-14

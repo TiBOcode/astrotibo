@@ -1,12 +1,12 @@
 ---
-title: Why am I not teaching songs?
+title: Why Learning Songs may Limit Your Creativity
 category:
   - "[[Ukulele]]"
 date: 2024-08-04
 status:
   - "[[📝 Captured]]"
   - "[[🌱Seedlings]]"
-description: 
+description:
 ---
 # The issue with songs
 
@@ -21,4 +21,4 @@ Don't get me wrong, I have nothing against playing songs, whether it is singing 
 # Improvisation for Self Expression and Self Discovery
 
 
-It's just that I'm passionate about using and teaching [Music as a tool for Introspection and Self Expression](/notes/freeexpression). Not only is it rewarding in a very unique way, but it's also much easier and accessible than people think!
+It's just that I'm passionate about using and teaching [Music is a tool for Personal Growth](/notes/Music-is-a-tool-for-Personal-Growth). Not only is it rewarding in a very unique way, but it's also much easier and accessible than people think!

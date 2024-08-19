@@ -35,5 +35,5 @@ If you're curious, 📝[here's how it went for me](/notes/despairtopassion)
 
 --- 
 ### Related:
-- 📝[How to Break Through a Plateau](plateau)
+- 📝[How to Break Through a Plateau](Overcoming%20Plateau.md)
 - 📝 [Physical Skills vs Mental Skills](/notes/physical-vs-mental)

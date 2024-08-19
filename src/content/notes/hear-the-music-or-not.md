@@ -8,11 +8,11 @@ status:
   - "[[🟠Later Review]]"
 description: This note's a Draft
 ---
-
-
 This sounds like a fine joke. A joke to which one wants to answer: "Ok great, then I won't play at all!"
 
-IT all depends on why you play music, I love playing loud and funky, but what I love the most is reaching a state of Flow where I don't even hear the music I play
+Yet, this is an important idea. Playing loud and funky is fun but the best moments in music are the ones where you reach a state of Flow, and surprisingly, it involves periods where the music goes in the background. 
+
+
 
 I'll cover what is flow in the context of Music
 
@@ -23,7 +23,7 @@ Let me explain, there are 2 categories of music.
 
 Ukulele's high pitch is easily forgotten
 
-Most of the times, when you notice the music, it means there was something that changed,  surprise is the driver for attention, 
+Most of the times, when you notice the music, it means there was something that changed, surprise is the driver for attention, 
 
 
 
@@ -32,6 +32,6 @@ Most of the times, when you notice the music, it means there was something that 
 ---
 ### Related:
 
-- 📝[Why I don't particularly enjoy listening to Jazz Music](jazz-music)
+- 📝[Why-I-don't-particularly-enjoy-listening-to-Jazz-Music](Why-I-don't-particularly-enjoy-listening-to-Jazz-Music.md)
 - 📝Engage all Senses
 
