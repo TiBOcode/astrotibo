@@ -1,7 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
 ---
-
 <Layout title="TiBO's Notes">
   <div class="relative min-h-screen overflow-hidden">
     <div class="absolute inset-0 bg-cover bg-top bg-no-repeat" style="background-image: url('/images/UkuleleLandScape.jpeg');" id="bg-image"></div>
@@ -16,17 +15,28 @@ import Layout from '../layouts/Layout.astro';
       <section id="explore" class="min-h-screen bg-gradient-to-b from-transparent to-white p-8">
         <div class="max-w-3xl mx-auto pt-32">
           <h2 class="text-4xl font-bold mb-6">A Note about the Maze</h2>
-
           <p class="mb-8">If you want to get a rough idea of the content here, I drafted a table of content with all My Notes. Remember that all the note are interconnected, it's a web of ideas and insights.</p>
           <p class="mb-8">"Improvisation is more than a Musical Technique, it's a metaphor for spontaneous Self-Expression and Exploration in Life."</p>
  
           <a href="/content" class="bg-black text-white px-6 py-3 rounded-lg hover:bg-black-700 transition">Overview the Notes</a>
         </div>
       </section>
+      <section id="about" class="min-h-screen bg-white p-8">
+        <div class="max-w-3xl mx-auto pt-32 flex flex-col md:flex-row items-center">
+          <div class="md:w-1/2 mb-8 md:mb-0 md:mr-8">
+            <img src="/images/GEOR9698.jpg" alt="TiBO playing ukulele" class="rounded-lg shadow-lg max-w-full h-auto">
+          </div>
+          <div class="md:w-1/2">
+            <h2 class="text-4xl font-bold mb-6">About Me</h2>
+            <p class="mb-8">Hey! I'm TiBO, a french guy who left his old life almost 4 years ago. 
+              If you look for me I should be somewhere in Europe traveling on my bike, dancing in the woods, playing Music in the mountains or most likely writing one of these Notes.</p>
+            <a href="/about" class="bg-black text-white px-6 py-3 rounded-lg hover:bg-black-700 transition">Access My Personal Notes</a>
+          </div>
+        </div>
+      </section>
     </main>
   </div>
 </Layout>
-
 <style>
   html {
     scroll-behavior: smooth;
@@ -51,7 +61,6 @@ import Layout from '../layouts/Layout.astro';
     }
   }
 </style>
-
 <script>
   window.addEventListener('scroll', () => {
     const scrollPosition = window.scrollY;
