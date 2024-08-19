@@ -2,67 +2,137 @@
 import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 
-// Fetch all notes from the 'notes' collection
 const allNotes = await getCollection('notes');
-
-// Separate index note from other notes
 const indexNote = allNotes.find(note => note.slug === 'index');
 const otherNotes = allNotes.filter(note => note.slug !== 'index');
-
-// Shuffle other notes for a more random maze-like appearance
 const shuffledNotes = otherNotes.sort(() => Math.random() - 0.5);
 ---
 
 <Layout title="Notes Maze">
-  <main class="container mx-auto px-4 py-8">
-    <h1 class="text-3xl font-bold mb-8 text-white">My Notes Maze</h1>
-    
-    <div class="mb-8">
-      <input 
-        type="text" 
-        id="searchInput" 
-        placeholder="Search the Maze..." 
-        class="w-full p-2 rounded bg-gray-700 text-white"
-      >
-    </div>
-
-    <div id="notesMaze" class="notes-maze">
-      {indexNote && (
-        <div class="note-item index-note" data-title={indexNote.data.title?.toLowerCase() || ''}>
-          <a href={`/notes/${indexNote.slug}`} class="block bg-orange-300 p-4 rounded hover:bg-orange-500 transition-colors h-full">
-            <h2 class="text-2xl font-semibold text-white mb-2">{indexNote.data.title || 'Index'}</h2>
-            {indexNote.data.description && 
-              <p class="text-gray-200 mb-2">{indexNote.data.description}</p>
-            }
-          </a>
-        </div>
-      )}
+  <div class="relative min-h-screen overflow-hidden">
+    <div class="absolute inset-0 bg-cover bg-top bg-no-repeat" id="bg-image"></div>
+    <main class="relative z-10 container mx-auto px-4 py-8">
+      <div class="mb-8 flex justify-center items-center">
+        <button id="searchToggle" class="text-2xl font-bold text-white flex items-center gap-2 hover:text-yellow-200 transition-colors">
+          Explore the Notes
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+          </svg>
+        </button>
+      </div>
       
-      {shuffledNotes.map((note, index) => {
-        const title = note.data.title || 'Untitled Note';
-        return (
-          <div class="note-item" data-title={title.toLowerCase()}>
-            <a href={`/notes/${note.slug}`} class="block bg-gray-800 p-4 rounded hover:bg-gray-700 transition-colors h-full">
-              <h3 class="text-xl font-medium text-white mb-2">{title}</h3>
-              {note.data.description && 
-                <p class="text-gray-300 mb-2">{note.data.description}</p>
+      <div id="searchContainer" class="mb-8 hidden">
+        <input
+          type="text"
+          id="searchInput"
+          placeholder="Search the Notes..."
+          class="w-full p-3 rounded-lg bg-white bg-opacity-20 text-white placeholder-white placeholder-opacity-75 shadow-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+        >
+      </div>
+
+      <div id="notesMaze" class="notes-maze">
+        {indexNote && (
+          <div class="note-item index-note" data-title={indexNote.data.title?.toLowerCase() || ''}>
+            <a href={`/notes/${indexNote.slug}`} class="block bg-gradient-to-br from-orange-400 to-orange-600 p-6 rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 h-full transform hover:scale-105">
+              <h2 class="text-3xl font-bold text-white mb-3">{indexNote.data.title || 'Index'}</h2>
+              {indexNote.data.description &&
+                <p class="text-white text-opacity-90">{indexNote.data.description}</p>
               }
             </a>
           </div>
-        );
-      })}
-    </div>
-  </main>
+        )}
+       
+        {shuffledNotes.map((note) => {
+          const title = note.data.title || 'Untitled Note';
+          return (
+            <div class="note-item" data-title={title.toLowerCase()}>
+              <a href={`/notes/${note.slug}`} class="block bg-white bg-opacity-20 backdrop-blur-sm p-5 rounded-lg shadow-md hover:shadow-lg transition-all duration-300 h-full transform hover:scale-105 hover:bg-opacity-40">
+                <h3 class="text-xl font-semibold text-white mb-2 transition-colors duration-300">{title}</h3>
+                {note.data.description &&
+                  <p class="text-white text-opacity-80 text-sm transition-colors duration-300">{note.data.description}</p>
+                }
+              </a>
+            </div>
+          );
+        })}
+      </div>
+    </main>
+  </div>
 </Layout>
+
+<style>
+  html {
+    scroll-behavior: smooth;
+  }
+  #bg-image {
+    background-image: url('/images/GEOR9874.jpg');
+    background-size: 120% auto;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+  }
+  @media (max-width: 1024px) {
+    #bg-image {
+      background-size: 140% auto;
+    }
+  }
+  @media (max-width: 768px) {
+    #bg-image {
+      background-size: 160% auto;
+    }
+  }
+  @media (max-width: 640px) {
+    #bg-image {
+      background-size: 180% auto;
+    }
+  }
+  .notes-maze {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(calc(50% - 0.75rem), 1fr));
+    gap: 1.5rem;
+    position: relative;
+  }
+  .note-item {
+    position: relative;
+    z-index: 1;
+  }
+  .note-item a:hover {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  .note-item a:hover h3,
+  .note-item a:hover p {
+    color: rgba(255, 219, 88, 0.8);
+  }
+  .index-note {
+    grid-column: 1 / -1;
+    margin-bottom: 2rem;
+  }
+  @media (min-width: 768px) {
+    .notes-maze {
+      grid-template-columns: repeat(auto-fit, minmax(calc(33.333% - 1rem), 1fr));
+    }
+  }
+  @media (min-width: 1024px) {
+    .notes-maze {
+      grid-template-columns: repeat(auto-fit, minmax(calc(25% - 1.125rem), 1fr));
+    }
+  }
+  #searchContainer {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+  }
+  #searchContainer.active {
+    max-height: 100px;
+  }
+</style>
 
 <script>
   function setupSearch() {
     const searchInput = document.getElementById('searchInput');
     const noteItems = document.querySelectorAll('.note-item');
-
     searchInput.addEventListener('input', () => {
       const searchTerm = searchInput.value.toLowerCase();
-      
+     
       noteItems.forEach(item => {
         const title = item.getAttribute('data-title') || '';
         if (title.includes(searchTerm)) {
@@ -74,66 +144,38 @@ const shuffledNotes = otherNotes.sort(() => Math.random() - 0.5);
     });
   }
 
-  document.addEventListener('astro:page-load', setupSearch);
+  function fadeInBackground() {
+    const bgImage = document.getElementById('bg-image');
+    bgImage.style.opacity = '1';
+  }
+
+  function setupParallax() {
+    window.addEventListener('scroll', () => {
+      const scrollPosition = window.scrollY;
+      document.getElementById('bg-image').style.transform = `translateY(${scrollPosition * 0.5}px)`;
+    });
+  }
+
+  function setupSearchToggle() {
+    const searchToggle = document.getElementById('searchToggle');
+    const searchContainer = document.getElementById('searchContainer');
+    const searchInput = document.getElementById('searchInput');
+
+    searchToggle.addEventListener('click', () => {
+      searchContainer.classList.toggle('active');
+      searchContainer.classList.toggle('hidden');
+      if (searchContainer.classList.contains('active')) {
+        setTimeout(() => {
+          searchInput.focus();
+        }, 300);
+      }
+    });
+  }
+
+  document.addEventListener('astro:page-load', () => {
+    setupSearch();
+    fadeInBackground();
+    setupParallax();
+    setupSearchToggle();
+  });
 </script>
-
-<style>
-  .notes-maze {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 1rem;
-    position: relative;
-  }
-
-  .note-item {
-    position: relative;
-    z-index: 1;
-  }
-
-  .index-note {
-    grid-column: 1 / -1;
-    margin-bottom: 2rem;
-  }
-
-  .note-item::before,
-  .note-item::after {
-    content: '';
-    position: absolute;
-    background-color: rgba(255, 255, 255, 0.2);
-    z-index: -1;
-  }
-
-  .note-item::before {
-    top: 50%;
-    left: -0.5rem;
-    right: -0.5rem;
-    height: 2px;
-  }
-
-  .note-item::after {
-    left: 50%;
-    top: -0.5rem;
-    bottom: -0.5rem;
-    width: 2px;
-  }
-
-  .note-item:nth-child(odd)::before {
-    left: 50%;
-  }
-
-  .note-item:nth-child(even)::before {
-    right: 50%;
-  }
-
-  @media (min-width: 640px) {
-    .notes-maze {
-      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-    }
-  }
-
-  @media (min-width: 1024px) {
-    .notes-maze {
-      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    }
-  }
-</style>
