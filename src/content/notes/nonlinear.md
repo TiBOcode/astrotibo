@@ -1,9 +1,9 @@
 ---
-title: What's a non linear Website?
+title: Non Linear Website makes Learning more Efficient
 category:
   - "[[Meta]]"
 date: 2024-08-11
-status: 
+status:
 ---
 A non linear website is an interconnected network that lets you in control of where to go next.
  

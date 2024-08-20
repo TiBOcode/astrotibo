@@ -22,4 +22,3 @@ Your support truly matters and would greatly accelerate the development of this 
 - 📝[How I can support your journey](/patreon-support)
 - 📝[How I Make a Living](/notes/how-I-make-a-living)
 - 📝[What I'm working on now](what-im-working-on-now%201.md)
-- 

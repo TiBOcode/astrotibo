@@ -7,16 +7,7 @@ status:
   - "[[🪴Inklings]]"
 description: This place is a waypoint to all my tips and this is where most of the writing is happening, it's a long process that requires lots of thinking, editing, reviewing & publishing. It'll keep evolving over time.
 ---
----
-title: Welcome to the Reading Ground
-category:
-  - "[[Ukulele]]"
-date: 2024-08-15
-status:
-  - "[[🪴Inklings]]"
-description: This place is a waypoint to all my tips and this is where most of the writing is happening, it's a long process that requires lots of thinking, editing, reviewing & publishing. It'll keep evolving over time.
----
-# Ukulele Improvisation Unorganized Principles (UIUP for short)
+## Ukulele Improvisation Unorganized Principles (UIUP for short)
 
 1. [Music is a tool for Personal Growth](/notes/Music-is-a-tool-for-Personal-Growth)
 
@@ -32,7 +23,7 @@ description: This place is a waypoint to all my tips and this is where most of t
 
 ---
 
-# Even More Unorganized But Insightful Tips (EMBIT)
+## Even More Unorganized But Insightful Tips (EMBIT)
 
 - [Listen to the Music you Create](/notes/listen) 
 - [How important is your posture really?](/notes/posture)
@@ -66,7 +57,7 @@ description: This place is a waypoint to all my tips and this is where most of t
 
 ---
 
-### Story Telling Principles
+### Creating Music - Story Telling Principles
 - Hero's Journey (Home/Adventure)
 - Tension & Dissonance/Consonance & resolution
 - Voice, Singing & Story
@@ -77,7 +68,7 @@ description: This place is a waypoint to all my tips and this is where most of t
 	- Review of Music terminology within the context of Predictions in Music
 
 
-### Music Theory
+### Ukulele Music Theory
 - what is Music Theory
 - Limits of MT: Tells you what should sound good, but doesn’t tell you why it makes you feel the way it does
 - Traditional Music Theory vs Practical Music Theory
@@ -134,14 +125,14 @@ Interacting with yourself
 
 
 ---
-# Peculiar And Totally Arbitrary Tips Offering (POTATO)
-### Evergreen Reminder
+## Peculiar And Totally Arbitrary Tips Offering (POTATO)
+
 - Eat well & Drink water
 - Sleep well
 - Move your body 
 
 ---
-# Meditation, Body & Music
+## Meditation, Body & Music
 - Enhancing Learning and Play by using Meditation Techniques
 - Playing Ukulele Blindfolded
 - Breath, Focus & Rhythm

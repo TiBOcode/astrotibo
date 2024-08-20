@@ -9,7 +9,7 @@ status:
 description: This is a story about How & Why I've gradually stopped listening to music in my daily life. Considering how much I love playing and teaching Music it's quite a surprise for many.
 ---
 ### The breakthrough happened in March 2024 
-I left the Vipassana Meditation Center in the Swiss Mountains, I had just spent 10 days meditating for about 10-12 hours a day, not allowed to talk nor do anything else than meditating. After saying goodbye to the people I shared the silent experience with, I jumped on the bike to continue my adventure and it started with a "simple 5km downhill" which I'll remember my whole life. I don't know what I expected after 10 days with no stimulation beyond my own thoughts. Going downhill on my little bike fully-loaded turned from routine to complete ecstasy at the overwhelming amount of sensations I experienced. 
+I left the Meditation Center, I had just spent 10 days meditating in the Swiss Mountains for about 10-12 hours a day, not allowed to talk nor do anything else than meditating. After saying goodbye to the people I shared the silent experience with, I jumped on the bike to continue my adventure and it started with a "simple 5km downhill" which I'll remember my whole life. I don't know what I expected after 10 days with no stimulation beyond my own thoughts. Going downhill on my little bike fully-loaded turned from routine to complete ecstasy at the overwhelming amount of sensations I experienced. 
 
 *The cold wind on my face, the pressure of my hands holding the handlebar, the feeling of the pedals on my feet and the amazing landscape moving so fast around me all merged into one conscious stream of thoughts.*
 

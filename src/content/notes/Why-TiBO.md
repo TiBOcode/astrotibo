@@ -1,11 +1,11 @@
 ---
-title: My full name is Thibaut Gabriel.
+title: Why "TiBO"
 category:
   - "[[Personnal]]"
 date: 2024-08-02
 status:
   - "[[🪴Inklings]]"
-description: 
+description:
 ---
 The French language has a deep passion for **silent letters**. Somehow Thibaut=Tibo... **it is pronounced the exact same way**. Why making it simple when you can make it complicated?
 
