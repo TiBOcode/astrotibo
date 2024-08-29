@@ -5,86 +5,66 @@ import Layout from '../layouts/Layout.astro';
 const allNotes = await getCollection('notes');
 const indexNote = allNotes.find(note => note.slug === 'index');
 const otherNotes = allNotes.filter(note => note.slug !== 'index');
-const shuffledNotes = otherNotes.sort(() => Math.random() - 0.5);
+const sortedNotes = otherNotes.sort((a, b) => new Date(b.data.date) - new Date(a.data.date));
 ---
 
 <Layout title="Notes Maze">
-  <div class="relative min-h-screen overflow-hidden">
-    <div class="absolute inset-0 bg-cover bg-top bg-no-repeat" id="bg-image"></div>
-    <main class="relative z-10 container mx-auto px-4 py-8">
-      <div class="mb-8 flex justify-center items-center">
-        <button id="searchToggle" class="text-2xl font-bold text-white flex items-center gap-2 hover:text-yellow-200 transition-colors">
-          Explore 
-          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-          </svg>
-        </button>
-      </div>
-      
-      <div id="searchContainer" class="mb-8 hidden">
-        <input
-          type="text"
-          id="searchInput"
-          placeholder="Explore the Notes..."
-          class="w-full p-3 rounded-lg bg-white bg-opacity-20 text-white placeholder-white placeholder-opacity-75 shadow-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
-        >
-      </div>
+  <main class="container mx-auto px-4 py-8 bg-white min-h-screen">
+    <div class="mb-8 flex justify-between items-center">
+      <button id="searchToggle" class="text-2xl font-bold text-gray-800 flex items-center gap-2 hover:text-blue-600 transition-colors">
+        Explore 
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+        </svg>
+      </button>
+      <select id="sortSelect" class="p-2 border rounded-lg">
+        <option value="newest">Newest to Oldest</option>
+        <option value="oldest">Oldest to Newest</option>
+      </select>
+    </div>
 
-      <div id="notesMaze" class="notes-maze">
-        {indexNote && (
-          <div class="note-item index-note" data-title={indexNote.data.title?.toLowerCase() || ''}>
-            <a href={`/notes/${indexNote.slug}`} class="block bg-gradient-to-br from-orange-400 to-orange-600 p-6 rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 h-full transform hover:scale-105">
-              <h2 class="text-3xl font-bold text-white mb-3">{indexNote.data.title || 'Index'}</h2>
-              {indexNote.data.description &&
-                <p class="text-white text-opacity-90">{indexNote.data.description}</p>
+    <div id="searchContainer" class="mb-8 hidden">
+      <input
+        type="text"
+        id="searchInput"
+        placeholder="Explore the Notes..."
+        class="w-full p-3 rounded-lg bg-gray-100 text-gray-800 placeholder-gray-500 shadow-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+      >
+    </div>
+
+    <div id="notesMaze" class="notes-maze">
+      {indexNote && (
+        <div class="note-item index-note" data-title={indexNote.data.title?.toLowerCase() || ''} data-date={indexNote.data.date || ''}>
+          <a href={`/notes/${indexNote.slug}`} class="block bg-gradient-to-br from-orange-400 to-orange-600 p-6 rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 h-full transform hover:scale-100">
+            <h2 class="text-3xl font-bold text-white mb-3">{indexNote.data.title || 'Index'}</h2>
+            {indexNote.data.description &&
+              <p class="text-white text-opacity-90">{indexNote.data.description}</p>
+            }
+          </a>
+        </div>
+      )}
+
+      {sortedNotes.map((note) => {
+        const title = note.data.title || 'Untitled Note';
+        return (
+          <div class="note-item" data-title={title.toLowerCase()} data-date={note.data.date || ''}>
+            <a href={`/notes/${note.slug}`} class="block bg-gray-100 p-5 rounded-lg shadow-md hover:shadow-lg transition-all duration-300 h-full transform hover:scale-105 hover:bg-gray-200">
+              <h3 class="text-xl font-semibold text-gray-800 mb-2 transition-colors duration-300">{title}</h3>
+              {note.data.description &&
+                <p class="text-gray-600 text-sm transition-colors duration-300">{note.data.description}</p>
+              }
+              {note.data.date &&
+                <p class="text-gray-500 text-xs mt-2">{new Date(note.data.date).toLocaleDateString()}</p>
               }
             </a>
           </div>
-        )}
-       
-        {shuffledNotes.map((note) => {
-          const title = note.data.title || 'Untitled Note';
-          return (
-            <div class="note-item" data-title={title.toLowerCase()}>
-              <a href={`/notes/${note.slug}`} class="block bg-white bg-opacity-20 backdrop-blur-sm p-5 rounded-lg shadow-md hover:shadow-lg transition-all duration-300 h-full transform hover:scale-105 hover:bg-opacity-40">
-                <h3 class="text-xl font-semibold text-white mb-2 transition-colors duration-300">{title}</h3>
-                {note.data.description &&
-                  <p class="text-white text-opacity-80 text-sm transition-colors duration-300">{note.data.description}</p>
-                }
-              </a>
-            </div>
-          );
-        })}
-      </div>
-    </main>
-  </div>
+        );
+      })}
+    </div>
+  </main>
 </Layout>
 
 <style>
-  html {
-    scroll-behavior: smooth;
-  }
-  #bg-image {
-    background-image: url('/images/GEOR9874.jpg');
-    background-size: 120% auto;
-    opacity: 0;
-    transition: opacity 0.5s ease-in-out;
-  }
-  @media (max-width: 1024px) {
-    #bg-image {
-      background-size: 140% auto;
-    }
-  }
-  @media (max-width: 768px) {
-    #bg-image {
-      background-size: 160% auto;
-    }
-  }
-  @media (max-width: 640px) {
-    #bg-image {
-      background-size: 180% auto;
-    }
-  }
   .notes-maze {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(calc(50% - 0.75rem), 1fr));
@@ -94,13 +74,6 @@ const shuffledNotes = otherNotes.sort(() => Math.random() - 0.5);
   .note-item {
     position: relative;
     z-index: 1;
-  }
-  .note-item a:hover {
-    background-color: rgba(255, 255, 255, 0.4);
-  }
-  .note-item a:hover h3,
-  .note-item a:hover p {
-    color: rgba(255, 219, 88, 0.8);
   }
   .index-note {
     grid-column: 1 / -1;
@@ -132,7 +105,7 @@ const shuffledNotes = otherNotes.sort(() => Math.random() - 0.5);
     const noteItems = document.querySelectorAll('.note-item');
     searchInput.addEventListener('input', () => {
       const searchTerm = searchInput.value.toLowerCase();
-     
+
       noteItems.forEach(item => {
         const title = item.getAttribute('data-title') || '';
         if (title.includes(searchTerm)) {
@@ -141,18 +114,6 @@ const shuffledNotes = otherNotes.sort(() => Math.random() - 0.5);
           item.style.display = 'none';
         }
       });
-    });
-  }
-
-  function fadeInBackground() {
-    const bgImage = document.getElementById('bg-image');
-    bgImage.style.opacity = '1';
-  }
-
-  function setupParallax() {
-    window.addEventListener('scroll', () => {
-      const scrollPosition = window.scrollY;
-      document.getElementById('bg-image').style.transform = `translateY(${scrollPosition * 0.5}px)`;
     });
   }
 
@@ -172,10 +133,32 @@ const shuffledNotes = otherNotes.sort(() => Math.random() - 0.5);
     });
   }
 
+  function setupSorting() {
+    const sortSelect = document.getElementById('sortSelect');
+    const notesMaze = document.getElementById('notesMaze');
+    const noteItems = Array.from(document.querySelectorAll('.note-item:not(.index-note)'));
+    
+    sortSelect.addEventListener('change', () => {
+      const sortOrder = sortSelect.value;
+      
+      noteItems.sort((a, b) => {
+        const dateA = new Date(a.getAttribute('data-date'));
+        const dateB = new Date(b.getAttribute('data-date'));
+        
+        if (sortOrder === 'newest') {
+          return dateB - dateA;
+        } else {
+          return dateA - dateB;
+        }
+      });
+      
+      noteItems.forEach(item => notesMaze.appendChild(item));
+    });
+  }
+
   document.addEventListener('astro:page-load', () => {
     setupSearch();
-    fadeInBackground();
-    setupParallax();
     setupSearchToggle();
+    setupSorting();
   });
 </script>
