@@ -4,7 +4,7 @@ category:
   - "[[Ukulele]]"
 date: 2024-08-12
 ---
-Using a pick on a ukulele is kind of a meme, a bit of a joke in the Ukulele community. In reality, it’s not that you _can’t_ use a pick, but it’s definitely considered unusual.
+2Using a pick on a ukulele is kind of a meme, a bit of a joke in the Ukulele community. In reality, it’s not that you _can’t_ use a pick, but it’s definitely considered unusual.
 
 ## The Unique Strength of the Ukulele
 

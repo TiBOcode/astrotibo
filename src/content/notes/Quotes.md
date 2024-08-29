@@ -9,9 +9,9 @@ description:
 
 
 
+“If you’re not feeling comfortable with feeling pain, you’ll believe everything that feels good”
 
-
-
+“It’s about self expression, not technical prowess”
 
 ---
 ### Related:- "Discover the meditative power of simple, repetitive patterns on the Ukulele, opening the door to flow states and creative expression"

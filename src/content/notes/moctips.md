@@ -25,27 +25,38 @@ description: This place is a waypoint to all my tips and this is where most of t
 
 ## Even More Unorganized But Insightful Tips (EMBIT)
 
-- [Listen to the Music you Create](/notes/listen) 
-- [How important is your posture really?](/notes/posture)
+ 
+- [Pay Attention to your Posture](/notes/posture)
 - [Sometimes, listen to the silence](/notes/listen-to-the-silence)
 - 📝[hear-the-music-or-not](/notes/hear-the-music-or-not)
 - [Playing with 4 fingers is your Gateway to Free Expression](/notes/playing-with-4-fingers-is-your-gateway-to-free-expression)
 - [Sing what you play](/notes/sing-what-you-hear) 
-- 📝[Play Slower](/notes/play-slower)
+- 📝[“Play Slower”: Slowing down is the key to Speeding Up](/notes/play-slower)
 - Feel the Narrative (tension and release)
-
 - Learning to Learn is the most important skill 
 - Play Blindfolded (without looking at your hands)
 - Simplify Repeat Learn Repeat 
 - Have a Routine
 - 📝[The rhythm of Attention in Music](/notes/attention-in-music)
-
 - 📝[why and how to work on Finger Dexterity]().
 - [Learning-Songs-may-Limit-Your-Creativity](/notes/Why-Learning-Songs-may-Limit-Your-Creativity)
-- Balancing Discipline and Freedom is how you 
+- Balancing Discipline and Freedom is how you improve 
 - Improvising means Flowing in the Chaos
 - Create, Don't Perfect
 - 📝[Improvising is about Expressing One's Self](/notes/Improvising-is-about-Expressing-One-s-Self)
+- [Engage all the Senses](/notes/engage-all-the-senses)
+- [Pay attention to the Music](/notes/Pay-attention-to-the-music)
+
+
+Edit: 21 August
+- Play Music Like Bob Ross
+- Being skilled at music requires a balance of Self Confidence and Vulnerability
+
+Edit: 27 August
+- 📝[Record (& Listen) to yourself playing](📝record-yourself-playing.md)
+- Finger Training Practice
+
+
 ---
 
 ### Ukulele Basics:
@@ -75,11 +86,11 @@ description: This place is a waypoint to all my tips and this is where most of t
 - Ukulele Specific Music Theory
 - Ukulele Improvisation Specific Music Theory
 
-| Notes                             | Chords          | Tools            |     |     |     |     |     |
-| --------------------------------- | --------------- | ---------------- | --- | --- | --- | --- | --- |
-| 12 Notes to 7 Notes - Major Scale | Major vs Minor  | Circle of Fifths |     |     |     |     |     |
-| 7 Notes and 7 Chords              | Advanced Chords | Chords Charts    |     |     |     |     |     |
-| 12 Notes 12 Keys                  | Broken          | Fretboard Shape  |     |     |     |     |     |
+| Notes                             | Chords          | Tools            |
+| --------------------------------- | --------------- | ---------------- |
+| 12 Notes to 7 Notes - Major Scale | Major vs Minor  | Circle of Fifths |
+| 7 Notes and 7 Chords              | Advanced Chords | Chords Charts    |
+| 12 Notes 12 Keys                  | Broken          | Fretboard Shape  |
 
 
 
@@ -87,12 +98,13 @@ description: This place is a waypoint to all my tips and this is where most of t
 
 ### Practical Techniques
 
-| FingerPicking | Chords            | Music   |           |                   |     |     |     |     |
-| ------------- | ----------------- | ------- | --------- | ----------------- | --- | --- | --- | --- |
-| FingerPattern | Shapes            | Rhythm  | Groove    | Syncopation       |     |     |     |     |
-| FingerStyle   | Fretboard         | Melody  | Notes     | Dynamics (Volume) |     |     |     |     |
-|               | Advanced Chords   | Harmony | Intervals |                   |     |     |     |     |
-|               | Chord Progression |         | Tempo     |                   |     |     |     |     |
+| FingerPicking | Chords            | Music     | Groove            |
+| ------------- | ----------------- | --------- | ----------------- |
+| FingerPattern | Shapes            | Rhythm    | Syncopation       |
+| FingerStyle   | Fretboard         | Melody    | Notes             |
+|               | Advanced Chords   | Harmony   | Dynamics (Volume) |
+|               | Chord Progression |           | Tempo             |
+|               | Chord changes     | Intervals |                   |
 
 Essential Left Hand Techniques:
 The 4 Basics
@@ -133,6 +145,7 @@ Interacting with yourself
 
 ---
 ## Meditation, Body & Music
+- 
 - Enhancing Learning and Play by using Meditation Techniques
 - Playing Ukulele Blindfolded
 - Breath, Focus & Rhythm
@@ -140,6 +153,7 @@ Interacting with yourself
 - 📝[Mental Imagery](mental-imagery)
 - Body Map
 - My Mental Model for Music
+- Using mental imagery to visualize the fretboard
 ### Psychology, Physics & Biology
 - Psychology of attention
 - Physics of Vibration -> Feeling these vibrations (Hearing) 

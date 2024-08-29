@@ -32,7 +32,7 @@ By connecting our vocal skills to hearing and playing music, we can leverage our
 
 |                                                   <big>1. Play some Music </big>                                                    |
 | :---------------------------------------------------------------------------------------------------------------------------------: |
-| **<big>2. Listen to the Music you Create</big>**<br><small style="color: grey;"> [(oh! I wrote about that)](/notes/listen) </small> |
+| **<big>2. Listen to the Music you Create</big>**<br><small style="color: grey;"> [(oh! I wrote about that)](Engage-all-the-senses.md) </small> |
 |            **<big>3. Sing it! </big>**<br><small style="color: grey;">(that's what we're learning to do now)</small><br>            |
 |                 **<big>4. Listen to your own singing</big>**<br><small style="color: grey;"> 1. + 2. = 3. </small>                  |
 |                                                                                                                                     |

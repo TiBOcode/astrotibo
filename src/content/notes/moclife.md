@@ -26,7 +26,7 @@ description: This is the place where all the notes about myself, traveling, life
 
 # Philosophy of Life
 
-[Flowing in Chaos](/notes/flowing-in-chaos)
+## [Flowing in Chaos](/notes/flowing-in-chaos)
 ### My Values:
 - Money and Fame: [Value First Approach](/notes/valuevfa) 
 - Ego and Identity [Self Less Service](/notes/value-self-less-service)
@@ -35,19 +35,21 @@ description: This is the place where all the notes about myself, traveling, life
 
 
 ### Processes in Stories
-- [Mental Imagery Music](mental-imagery)
-- [How I learned Meditation](how-i-learned-meditation)
+- 📝[Mental Imagery Music](mental-imagery)
+- 📝[How I learned Meditation](how-i-learned-meditation)
 - How I connected to my own self
 - How I learned about emotions
 
 
 
-### Hot takes 
+### Unique stuff
 - [How a 10 day meditation retreat made me stop listening to Music](/notes/how-a-10-day-meditation-retreat-made-me-stop-listening-to-music)
 - Why I don’t take the plane anymore
+- Why I stopped drinking alcohol
 
-# Mind & Body - Meditation & Mental Imagery 
+# Mind & Body - Meditation & Mental Imagery
 - Music and Meditation
+- 
 
 ### Insights & Stories from 3+ years of intense meditation
 - Healing my knee
@@ -55,6 +57,8 @@ description: This is the place where all the notes about myself, traveling, life
 - Freeing my body
 - Feeling at peace (finally)
 - Addicted to the Self Discovery process
+Specific stories:
+- "Don't put your elbows on the table"
 
 
 # Concepts & Paradox
