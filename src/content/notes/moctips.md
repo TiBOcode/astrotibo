@@ -34,11 +34,10 @@ description: This place is a waypoint to all my tips and this is where most of t
 - 📝[“Play Slower”: Slowing down is the key to Speeding Up](/notes/play-slower)
 - Feel the Narrative (tension and release)
 - Learning to Learn is the most important skill 
-- Play Blindfolded (without looking at your hands)
 - Simplify Repeat Learn Repeat 
 - Have a Routine
 - 📝[The rhythm of Attention in Music](/notes/attention-in-music)
-- 📝[why and how to work on Finger Dexterity]().
+- 📝[why and how to work on Finger Dexterity]()
 - [Learning-Songs-may-Limit-Your-Creativity](/notes/Why-Learning-Songs-may-Limit-Your-Creativity)
 - Balancing Discipline and Freedom is how you improve 
 - Improvising means Flowing in the Chaos
@@ -48,15 +47,18 @@ description: This place is a waypoint to all my tips and this is where most of t
 - [Pay attention to the Music](/notes/Pay-attention-to-the-music)
 
 
-Edit: 21 August
+21 August
 - Play Music Like Bob Ross
 - Being skilled at music requires a balance of Self Confidence and Vulnerability
 
-Edit: 27 August
+27 August
 - 📝[Record (& Listen) to yourself playing](📝record-yourself-playing.md)
 - Finger Training Practice
-
-
+29
+- 📝[[Paying Attention]]  
+30
+- [Why I Stopped Learning Tabs](/notes/why-i-stopped-learning-tabs)
+- [Why I Play Blindfolded](/notes/why-i-play-blindfolded)
 ---
 
 ### Ukulele Basics:
@@ -64,7 +66,7 @@ Edit: 27 August
 - High G vs Low G Ukulele
 - High G Ukulele, Drone, Melody and Play 
 - [Ukulele vs Guitar](/notes/ukulelevsguitar)
-- Using a Capo
+- Do you need a Capo?
 
 ---
 

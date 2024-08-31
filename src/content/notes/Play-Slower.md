@@ -15,8 +15,10 @@ Embracing Slow Play is about more than just improving your ukulele skills. It's 
 1. The Order :”PLAY SLOWER!”
 2. The Explanation: More complex than you think
 
-Slowing down means slowing down the pace of the Music, it’s like driving a car downhill when you constantly have to hit the brake every once in a while. In the context of music it about moving that right hand slower with more care and attention. It also means imagining that the music that you’re creating is going to slow down too. It requires much more mental juggling than it seems like, which is what leads us to break this first myth about Faster = Hard.
+Slowing down music is like driving a car downhill, you need to hit the brakes to maintain control and avoid crashing into the next obstacle. It’s not just about preventing mistakes, slowing down builds the precision and confidence needed to eventually play with skill at any speed. In the context of music it about moving that right hand slower with more care and attention. It requires much more mental juggling than it seems like, which is what leads us to break this first myth about 
 
+~~Faster = Harder~~.
+# Slower = Harder
 
 ## Speed creates an illusion of skills. 
 When things are getting complex, we often find ourselves speeding up instead of facing the complexity, and the reason is generally “sounds better” is because our brains don’t have time to understand what’s going on, much like talking faster when we’re not feeling comfortable to cover up something.

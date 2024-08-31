@@ -4,11 +4,11 @@ category:
   - "[[Ukulele]]"
 date: 2024-08-13
 status:
-  - "[[📝 Captured]]"
-description: 
+  - "[[🪴Inklings]]"
+description: This note is about an underrated way to connect with one’s music. It’s obscure, strange and weird but equally effective.
 ---
-There's a famous Canadian pianist who was known for a very peculiar habit. He was known to "hum" or "sing" what he was playing on the piano to a degree that was pathological. His name was Glenn Gould.
-I remember the first time I heard about him I thought "What a strange guy". Then time passed and when I picked up music myself, I started experimenting with this idea until I realized the real power of singing what you play.
+There's that famous Canadian pianist who was known for a very peculiar habit. He was known to "hum" or "sing" what he was playing on the piano to a degree that was pathological. His name was Glenn Gould.
+I remember the first time I heard about him I thought "What a strange guy". Then time passed and when I picked up music myself, I started experimenting with this idea until I realized how powerful of a practice it is to ”Sing what you Play”
 
 
 # Why it makes sense
