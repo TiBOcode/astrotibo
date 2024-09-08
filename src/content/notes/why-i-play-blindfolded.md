@@ -27,4 +27,6 @@ Last but not least, a simple reason why I love blindfolding so much is because i
 
 ---
 ### Related:
+- Mental Imagery
+- Meditation
 - [Yes, you can close your eyes, but being blindfolded is different](/notes/yes-you-can-close-your-eyes-but-blindfolded-is-different)

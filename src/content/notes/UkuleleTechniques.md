@@ -1,10 +1,14 @@
 ---
 title: Map of Ukulele Techniques
+category: 
+date: 2024-08-31
+status:
+  - "[[📝Captured]]"
+description:
 ---
-
 Essential Left Hand Techniques:
 
-What to do with the strings 
+What to do with these strings?! 
 
 
 

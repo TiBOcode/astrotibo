@@ -5,7 +5,7 @@ category:
 date: 2024-08-15
 status:
   - "[[🪴Inklings]]"
-description: This place is a waypoint to all my tips and this is where most of the writing is happening, it's a long process that requires lots of thinking, editing, reviewing & publishing. It'll keep evolving over time.
+description: This place is a waypoint to most of the notes about Ukulele. I’ll organize later, writing is a long process that requires lots of thinking, editing, reviewing & publishing.
 ---
 ## Ukulele Improvisation Unorganized Principles (UIUP for short)
 
@@ -51,14 +51,19 @@ description: This place is a waypoint to all my tips and this is where most of t
 - Play Music Like Bob Ross
 - Being skilled at music requires a balance of Self Confidence and Vulnerability
 
-27 August
+27
 - 📝[Record (& Listen) to yourself playing](📝record-yourself-playing.md)
 - Finger Training Practice
 29
 - 📝[[Paying Attention]]  
 30
 - [Why I Stopped Learning Tabs](/notes/why-i-stopped-learning-tabs)
+31
 - [Why I Play Blindfolded](/notes/why-i-play-blindfolded)
+3 September
+-  [[📝Color & State]]
+
+
 ---
 
 ### Ukulele Basics:
@@ -81,18 +86,7 @@ description: This place is a waypoint to all my tips and this is where most of t
 	- Review of Music terminology within the context of Predictions in Music
 
 
-### Ukulele Music Theory
-- what is Music Theory
-- Limits of MT: Tells you what should sound good, but doesn’t tell you why it makes you feel the way it does
-- Traditional Music Theory vs Practical Music Theory
-- Ukulele Specific Music Theory
-- Ukulele Improvisation Specific Music Theory
-
-| Notes                             | Chords          | Tools            |
-| --------------------------------- | --------------- | ---------------- |
-| 12 Notes to 7 Notes - Major Scale | Major vs Minor  | Circle of Fifths |
-| 7 Notes and 7 Chords              | Advanced Chords | Chords Charts    |
-| 12 Notes 12 Keys                  | Broken          | Fretboard Shape  |
+### [Ukulele Music Theory](/notes/moc-music-theory)
 
 
 
