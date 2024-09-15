@@ -7,6 +7,13 @@ status:
   - "[[🪴Inklings]]"
 description: This place is a waypoint to most of the notes about Ukulele. I’ll organize later, writing is a long process that requires lots of thinking, editing, reviewing & publishing.
 ---
+## Quick Summary of the Approach
+
+Through these notes, you'll learn about a unique way of playing revolving around Simplicity and Free Expression, breaking away from the widespread idea that learning music has to be an infinite grind until you eventually become one with the instrument. Not only can you Succeed in your Musical Journey but this approach is intentionally crafted to ensure your experience is both rewarding and fun.
+
+[Summary of the Approach (5min read)](/notes/a-different-way-of-playing-the-ukulele)
+
+
 ## Ukulele Improvisation Unorganized Principles (UIUP for short)
 
 1. [Music is a tool for Personal Growth](/notes/Music-is-a-tool-for-Personal-Growth)
@@ -62,7 +69,8 @@ description: This place is a waypoint to most of the notes about Ukulele. I’ll
 - [Why I Play Blindfolded](/notes/why-i-play-blindfolded)
 3 September
 -  [[📝Color & State]]
-
+15 September 
+[Learning a scale is about feelings, not just memorization](/notes/learning-a-scale-is-about-feelings)
 
 ---
 

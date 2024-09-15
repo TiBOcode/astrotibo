@@ -7,6 +7,9 @@ status:
   - "[[🚧 Urgent]]"
 description:
 ---
+## Things to know before Exploring
+
+Think of this as **a Guide to Master Story Telling through Improvisation on Ukulele.** Creativity isn't a magical gift: it's a skill that can be Learned & Practiced. The Ukulele is the perfect gateway instrument to step into this world of Self Expression and Self Discovery; but don't worry, you're not alone and you don't have to create everything from scratch, these notes are there to support this journey.
 
 |                                |                                                                                                                                                                                            |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -21,16 +24,5 @@ description:
 Everything's free because sharing knowledge feels more important to me than money, you can support this project by [becoming a member](/notes/patreon)  
 
 - - -
-
-
-```
-
-*🚧Attention:  The place you're exploring is under construction*.
-*Some paths are 📝UNWRITTEN but don't worry, the author writes like a maniac*
-*Current note count: 32 and growing! * 
-*Last update: Fresh out of the oven (aka Today)* 
-*Number of people who returned here after getting lost: 243*
-
-```
 
 
