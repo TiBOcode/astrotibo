@@ -8,7 +8,9 @@ status:
   - "[[🚧 Urgent]]"
 description: This is a special note because it is a temporary one. A note written to give people an overview of what I'm teaching here and give a clearer vision as to what changes you can expect in the short term.
 ---
+## Quick Summary of the Approach
 
+Through these notes, you'll learn about a unique way of playing revolving around Simplicity and Free Expression, breaking away from the widespread idea that learning music has to be an infinite grind until you eventually become one with the instrument. Not only can you Succeed in your Musical Journey but this approach is intentionally crafted to ensure your experience is both rewarding and fun.
 
 # Why Ukulele Fingerstyle Improvisation?
 

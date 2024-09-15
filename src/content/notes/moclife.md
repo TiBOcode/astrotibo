@@ -75,5 +75,5 @@ Specific stories:
 + Chaos
 
 # Others
-
+ [the Leap of Faith in Decision Making](/notes/leap-of-faith)
 [Quotes](/notes/quotes)

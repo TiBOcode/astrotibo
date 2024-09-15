@@ -1,38 +1,42 @@
 ---
-title: Welcome to the Reading Ground
+title: You're there! Welcome
 category:
   - "[[Ukulele]]"
 date: 2024-08-15
 status:
   - "[[🪴Inklings]]"
-description: This place is a waypoint to most of the notes about Ukulele. I’ll organize later, writing is a long process that requires lots of thinking, editing, reviewing & publishing.
+description: I'm writing daily about many of the passion I have, Music is one of them. This is where I keep all my notes about Ukulele. If you don't mind the mess, this is the place for you.
 ---
-## Quick Summary of the Approach
-
-Through these notes, you'll learn about a unique way of playing revolving around Simplicity and Free Expression, breaking away from the widespread idea that learning music has to be an infinite grind until you eventually become one with the instrument. Not only can you Succeed in your Musical Journey but this approach is intentionally crafted to ensure your experience is both rewarding and fun.
-
-[Summary of the Approach (5min read)](/notes/a-different-way-of-playing-the-ukulele)
+```
+*🚧Attention:  The place you're exploring is under construction*.
+*Some paths are 📝UNWRITTEN but don't worry, the author writes like a maniac*
+*Current notes count: 35 and growing! * 
+*Last update: Fresh out of the oven (aka Today)* 
+*Number of people who returned here after getting lost: 243*
+```
+## **[Summary of the Approach (5min read)](/notes/a-different-way-of-playing-the-ukulele)**
 
 
 ## Ukulele Improvisation Unorganized Principles (UIUP for short)
 
-1. [Music is a tool for Personal Growth](/notes/Music-is-a-tool-for-Personal-Growth)
+1. [Music is a tool for Personal Growth](/notes/music-is-a-tool-for-personal-growth)
 
-2. [Breaking Away from Conventions](/notes/Breaking-Away-From-Conventions)
+2. [Breaking Away from Conventions](/notes/breaking-away-from-conventions)
 
 3. [Less is More](/notes/less-is-more)
 
 4. [5 Stages to Develop a Passion](/notes/5-stages-to-develop-a-passion)
 
-5. [Do You Play Music for Yourself or for Others?](/notes/Do-You-Play-Music-for-Yourself-or-for-Others)
+5. [Do You Play Music for Yourself or for Others?](/notes/do-you-play-music-for-yourself-or-for-others)
 
 6. [Why you should Learn how to Improvise](/notes/why-you-should-learn-how-to-improvise)
 
 ---
 
+
 ## Even More Unorganized But Insightful Tips (EMBIT)
 
- 
+ 5 August
 - [Pay Attention to your Posture](/notes/posture)
 - [Sometimes, listen to the silence](/notes/listen-to-the-silence)
 - 📝[hear-the-music-or-not](/notes/hear-the-music-or-not)
@@ -58,19 +62,19 @@ Through these notes, you'll learn about a unique way of playing revolving around
 - Play Music Like Bob Ross
 - Being skilled at music requires a balance of Self Confidence and Vulnerability
 
-27
+27 August
 - 📝[Record (& Listen) to yourself playing](📝record-yourself-playing.md)
 - Finger Training Practice
-29
+29 August 
 - 📝[[Paying Attention]]  
-30
+30 August
 - [Why I Stopped Learning Tabs](/notes/why-i-stopped-learning-tabs)
-31
+31 August
 - [Why I Play Blindfolded](/notes/why-i-play-blindfolded)
 3 September
 -  [[📝Color & State]]
 15 September 
-[Learning a scale is about feelings, not just memorization](/notes/learning-a-scale-is-about-feelings)
+- [Learning a scale is about feelings, not just memorization](/notes/learning-a-scale-is-about-feelings)
 
 ---
 
@@ -164,3 +168,26 @@ Interacting with yourself
 
 ### Conceptual Mind Bending
 - 📝[playing with music as opposed to playing music](/notes/playingwithmusic)
+
+
+### Techniques (Coming Soon)
+This is a listing of Ukulele Techniques I'll detail. These are more tangible elements of Ukulele playing that I'm also going to use in my videos once I'll have a solid library.<br>
+[→ 📝Ukulele Techniques](/notes/UkuleleTechniques)
+
+### The Method (Coming Soon)
+Here I'll design a more structured learning path for both beginner and more advanced players to 📝[Develop their skills](/notes/foundation)
+
+### The Ukulele Roadmap (Coming Soon)
+I'm thinking of creating a📝[RoadMap](/notes/roadmap) to help people overview of what it takes to learn Ukulele Improvisation. For now it's just an idea, I'm working on it! 
+
+---
+# Other Ideas
+- I'll list my Youtube Videos here too, idk how yet
+📝[Video listing](/notes/Videos)
+
+- And somehow I can even add some few seconds of Ukulele Music for you to enjoy
+
+- You made it all the way down! Here's some music for you to enjoy:
+
+<audio src="/audio/UkuleleTest.mp3" controls></audio>
+
