@@ -1,0 +1,200 @@
+---
+interface Props {
+  type: 'explore' | 'support';
+  contactName: string;
+  contactRole: string;
+  contactImage: string;
+}
+
+const { type, contactName, contactRole, contactImage } = Astro.props;
+
+const concepts = {
+  explore: {
+    title: "Come to Explore",
+    description: "Experience life in our mountain community through short-term stays and cultural exchanges. Live alongside us, participate in daily activities, and discover if this lifestyle resonates with your values.",
+    features: [
+      "Stay in our guest accommodations",
+      "Join community activities and workshops",
+      "Learn about sustainable living",
+      "Share meals with community members"
+    ],
+    icon: "🏔️"
+  },
+  support: {
+    title: "Come to Support",
+    description: "Become an integral part of our growing community. Whether through skills, resources, or long-term commitment, help us build a sustainable future in Alpe Pianello.",
+    features: [
+      "Contribute your unique skills",
+      "Participate in community projects",
+      "Help shape our future",
+      "Build lasting connections"
+    ],
+    icon: "🤝"
+  }
+};
+
+const content = concepts[type];
+---
+
+<section id={type} class={`concept-section ${type}`}>
+  <div class="concept-content">
+    <div class="concept-header">
+      <span class="concept-icon">{content.icon}</span>
+      <h2>{content.title}</h2>
+    </div>
+    
+    <p class="concept-description">{content.description}</p>
+    
+    <div class="features">
+      {content.features.map(feature => (
+        <div class="feature-item">
+          <span class="feature-bullet">•</span>
+          {feature}
+        </div>
+      ))}
+    </div>
+
+    <div class="contact-card">
+      <img src={contactImage} alt={contactName} class="contact-image" />
+      <div class="contact-info">
+        <h3>Connect with {contactName}</h3>
+        <p>{contactRole}</p>
+        <a href={`mailto:${contactName.toLowerCase()}@alpepianello.com`} class="contact-button">
+          Get in Touch
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .concept-section {
+    min-height: 100vh;
+    padding: 4rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .explore {
+    background-color: #f8f9fa;
+  }
+
+  .support {
+    background-color: #e9ecef;
+  }
+
+  .concept-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .concept-header {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+  .concept-icon {
+    font-size: 4rem;
+    display: block;
+    margin-bottom: 1rem;
+  }
+
+  h2 {
+    font-size: 2.5rem;
+    color: #2d3436;
+    margin: 0;
+  }
+
+  .concept-description {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: #636e72;
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+
+  .features {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 4rem;
+  }
+
+  .feature-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 1.1rem;
+    color: #2d3436;
+  }
+
+  .feature-bullet {
+    color: #00b894;
+    font-size: 1.5rem;
+  }
+
+  .contact-card {
+    background: white;
+    border-radius: 1rem;
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+
+  .contact-image {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+
+  .contact-info {
+    flex: 1;
+  }
+
+  .contact-info h3 {
+    margin: 0;
+    font-size: 1.5rem;
+    color: #2d3436;
+  }
+
+  .contact-info p {
+    color: #636e72;
+    margin: 0.5rem 0 1.5rem;
+  }
+
+  .contact-button {
+    display: inline-block;
+    background-color: #00b894;
+    color: white;
+    padding: 0.8rem 1.5rem;
+    border-radius: 2rem;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s ease;
+  }
+
+  .contact-button:hover {
+    background-color: #00a28d;
+    transform: translateY(-2px);
+  }
+
+  @media (max-width: 768px) {
+    .contact-card {
+      flex-direction: column;
+      text-align: center;
+      padding: 1.5rem;
+    }
+
+    .concept-description {
+      font-size: 1.1rem;
+    }
+
+    h2 {
+      font-size: 2rem;
+    }
+  }
+</style>
